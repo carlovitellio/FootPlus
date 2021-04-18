@@ -1,0 +1,30 @@
+Code,Name_en,Ocean_Group,InlandMarine_Group,FARegion_Group
+1,Africa - Inland waters,,Inland,
+2,"America, North - Inland waters",,Inland,
+3,"America, South - Inland waters",,Inland,
+4,Asia - Inland waters,,Inland,
+5,Europe - Inland waters,,Inland,
+6,Oceania - Inland waters,,Inland,
+7,Former USSR area - Inland waters,,Inland,
+8,Antarctica - Inland waters,,Inland,
+18,Arctic Sea,Atlantic Ocean and adjacent seas,Marine,Northern regions
+21,"Atlantic, Northwest",Atlantic Ocean and adjacent seas,Marine,Northern regions
+27,"Atlantic, Northeast",Atlantic Ocean and adjacent seas,Marine,Northern regions
+31,"Atlantic, Western Central",Atlantic Ocean and adjacent seas,Marine,Central regions
+34,"Atlantic, Eastern Central",Atlantic Ocean and adjacent seas,Marine,Central regions
+37,Mediterranean and Black Sea,Atlantic Ocean and adjacent seas,Marine,Central regions
+41,"Atlantic, Southwest",Atlantic Ocean and adjacent seas,Marine,Southern regions
+47,"Atlantic, Southeast",Atlantic Ocean and adjacent seas,Marine,Southern regions
+48,"Atlantic, Antarctic",Southern Ocean,Marine,Southern regions
+51,"Indian Ocean, Western",Indian Ocean,Marine,Central regions
+57,"Indian Ocean, Eastern",Indian Ocean,Marine,Central regions
+58,"Indian Ocean, Antarctic",Southern Ocean,Marine,Southern regions
+61,"Pacific, Northwest",Pacific Ocean,Marine,Northern regions
+67,"Pacific, Northeast",Pacific Ocean,Marine,Northern regions
+71,"Pacific, Western Central",Pacific Ocean,Marine,Central regions
+77,"Pacific, Eastern Central",Pacific Ocean,Marine,Central regions
+81,"Pacific, Southwest",Pacific Ocean,Marine,Southern regions
+87,"Pacific, Southeast",Pacific Ocean,Marine,Southern regions
+88,"Pacific, Antarctic",Southern Ocean,Marine,Southern regions
+98,Antarctic areas nei,Southern Ocean,Marine,
+99,Marine areas outside the Antarctic,,Marine,

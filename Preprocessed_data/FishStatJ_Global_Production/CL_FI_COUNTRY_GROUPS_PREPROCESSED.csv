@@ -1,0 +1,276 @@
+UN_Code,Identifier,ISO2_Code,Name_En,Official_Name_En,Continent_Group,EcoClass_Group,GeoRegion_Group
+0,380,EU,European Union,The European Union (Member Organization),,,
+4,2,AF,Afghanistan,The Islamic Republic of Afghanistan,Asia,Least Developed Countries,Southern Asia
+8,3,AL,Albania,the Republic of Albania,Europe,Developed countries or areas,Southern Europe
+10,30,AQ,Antarctica others,Antarctica,Antarctica,,
+12,4,DZ,Algeria,the People's Democratic Republic of Algeria,Africa,Other developing countries or areas,Northern Africa
+16,5,AS,American Samoa,American Samoa,Oceania,Other developing countries or areas,Polynesia
+20,6,AD,Andorra,the Principality of Andorra,Europe,Developed countries or areas,Southern Europe
+24,7,AO,Angola,the Republic of Angola,Africa,Least Developed Countries,Middle Africa
+28,8,AG,Antigua and Barbuda,Antigua and Barbuda,Americas,Other developing countries or areas,Caribbean
+31,52,AZ,Azerbaijan,the Republic of Azerbaijan,Asia,Other developing countries or areas,Western Asia
+32,9,AR,Argentina,the Argentine Republic,Americas,Other developing countries or areas,South America
+36,10,AU,Australia,Australia,Oceania,Developed countries or areas,Australia and New Zealand
+40,11,AT,Austria,the Republic of Austria,Europe,Developed countries or areas,Western Europe
+44,12,BS,Bahamas,the Commonwealth of the Bahamas,Americas,Other developing countries or areas,Caribbean
+48,13,BH,Bahrain,the Kingdom of Bahrain,Asia,Other developing countries or areas,Western Asia
+50,16,BD,Bangladesh,the People's Republic of Bangladesh,Asia,Least Developed Countries,Southern Asia
+51,1,AM,Armenia,the Republic of Armenia,Asia,Other developing countries or areas,Western Asia
+52,14,BB,Barbados,Barbados,Americas,Other developing countries or areas,Caribbean
+56,255,BE,Belgium,the Kingdom of Belgium,Europe,Developed countries or areas,Western Europe
+58,15,,Belgium-Luxembourg,,Europe,Developed countries or areas,Western Europe
+60,17,BM,Bermuda,Bermuda,Americas,Developed countries or areas,Northern America
+64,18,BT,Bhutan,the Kingdom of Bhutan,Asia,Least Developed Countries,Southern Asia
+68,19,BO,Bolivia (Plurinat.State),the Plurinational State of Bolivia,Americas,Other developing countries or areas,South America
+70,80,BA,Bosnia and Herzegovina,Bosnia and Herzegovina,Europe,Developed countries or areas,Southern Europe
+72,20,BW,Botswana,the Republic of Botswana,Africa,Other developing countries or areas,Southern Africa
+74,31,BV,Bouvet Island,Bouvet Island,Americas,Other developing countries or areas,South America
+76,21,BR,Brazil,the Federative Republic of Brazil,Americas,Other developing countries or areas,South America
+84,23,BZ,Belize,Belize,Americas,Other developing countries or areas,Central America
+86,24,IO,British Indian Ocean Ter,British Indian Ocean Territory,Africa,Other developing countries or areas,Eastern Africa
+90,25,SB,Solomon Islands,Solomon Islands,Oceania,Least Developed Countries,Melanesia
+92,239,VG,British Virgin Islands,British Virgin Islands,Americas,Other developing countries or areas,Caribbean
+96,26,BN,Brunei Darussalam,Brunei Darussalam,Asia,Other developing countries or areas,South-Eastern Asia
+100,27,BG,Bulgaria,the Republic of Bulgaria,Europe,Developed countries or areas,Eastern Europe
+104,28,MM,Myanmar,the Republic of the Union of Myanmar,Asia,Least Developed Countries,South-Eastern Asia
+108,29,BI,Burundi,the Republic of Burundi,Africa,Least Developed Countries,Eastern Africa
+112,57,BY,Belarus,the Republic of Belarus,Europe,Developed countries or areas,Eastern Europe
+116,115,KH,Cambodia,the Kingdom of Cambodia,Asia,Least Developed Countries,South-Eastern Asia
+120,32,CM,Cameroon,the Republic of Cameroon,Africa,Other developing countries or areas,Middle Africa
+124,33,CA,Canada,Canada,Americas,Developed countries or areas,Northern America
+128,34,,Canton and Enderbury Is,,,,
+132,35,CV,Cabo Verde,Republic of Cabo Verde,Africa,Other developing countries or areas,Western Africa
+136,36,KY,Cayman Islands,Cayman Islands,Americas,Other developing countries or areas,Caribbean
+140,37,CF,Central African Republic,the Central African Republic,Africa,Least Developed Countries,Middle Africa
+144,38,LK,Sri Lanka,the Democratic Socialist Republic of Sri Lanka,Asia,Other developing countries or areas,Southern Asia
+148,39,TD,Chad,the Republic of Chad,Africa,Least Developed Countries,Middle Africa
+152,40,CL,Chile,the Republic of Chile,Americas,Other developing countries or areas,South America
+156,41,CN,China,the People's Republic of China,Asia,Other developing countries or areas,Eastern Asia
+158,214,TW,Taiwan Province of China,Taiwan Province of China,Asia,Other developing countries or areas,Eastern Asia
+162,42,CX,Christmas Island,Christmas Island,Oceania,Developed countries or areas,Australia and New Zealand
+166,43,CC,Cocos (Keeling) Islands,Cocos (Keeling) Islands,Oceania,Developed countries or areas,Australia and New Zealand
+170,44,CO,Colombia,the Republic of Colombia,Americas,Other developing countries or areas,South America
+174,45,KM,Comoros,the Union of the Comoros,Africa,Least Developed Countries,Eastern Africa
+175,270,YT,Mayotte,Mayotte,Africa,Other developing countries or areas,Eastern Africa
+178,46,CG,Congo,the Republic of the Congo,Africa,Other developing countries or areas,Middle Africa
+180,250,CD,"Congo, Dem. Rep. of the",the Democratic Republic of the Congo,Africa,Least Developed Countries,Middle Africa
+184,47,CK,Cook Islands,the Cook Islands,Oceania,Other developing countries or areas,Polynesia
+188,48,CR,Costa Rica,the Republic of Costa Rica,Americas,Other developing countries or areas,Central America
+191,98,HR,Croatia,the Republic of Croatia,Europe,Developed countries or areas,Southern Europe
+192,49,CU,Cuba,the Republic of Cuba,Americas,Other developing countries or areas,Caribbean
+196,50,CY,Cyprus,the Republic of Cyprus,Asia,Developed countries or areas,Western Asia
+200,51,,Czechoslovakia,Czechoslovakia,Europe,Developed countries or areas,Eastern Europe
+203,167,CZ,Czechia,the Czech Republic,Europe,Developed countries or areas,Eastern Europe
+204,53,BJ,Benin,the Republic of Benin,Africa,Least Developed Countries,Western Africa
+208,54,DK,Denmark,the Kingdom of Denmark,Europe,Developed countries or areas,Northern Europe
+212,55,DM,Dominica,the Commonwealth of Dominica,Americas,Other developing countries or areas,Caribbean
+214,56,DO,Dominican Republic,the Dominican Republic,Americas,Other developing countries or areas,Caribbean
+218,58,EC,Ecuador,the Republic of Ecuador,Americas,Other developing countries or areas,South America
+222,60,SV,El Salvador,the Republic of El Salvador,Americas,Other developing countries or areas,Central America
+226,61,GQ,Equatorial Guinea,the Republic of Equatorial Guinea,Africa,Other developing countries or areas,Middle Africa
+230,62,,Ethiopia PDR,,Africa,Least Developed Countries,Eastern Africa
+231,238,ET,Ethiopia,the Federal Democratic Republic of Ethiopia,Africa,Least Developed Countries,Eastern Africa
+232,178,ER,Eritrea,the State of Eritrea,Africa,Least Developed Countries,Eastern Africa
+233,63,EE,Estonia,the Republic of Estonia,Europe,Developed countries or areas,Northern Europe
+234,64,FO,Faroe Islands,Faroe Islands,Europe,Developed countries or areas,Northern Europe
+238,65,FK,Falkland Is.(Malvinas),the Falkland Islands (Malvinas),Americas,Other developing countries or areas,South America
+239,271,GS,SouthGeorgia/Sandwich Is,South Georgia and the South Sandwich Islands,Americas,Other developing countries or areas,South America
+242,66,FJ,Fiji,the Republic of Fiji,Oceania,Other developing countries or areas,Melanesia
+246,67,FI,Finland,the Republic of Finland,Europe,Developed countries or areas,Northern Europe
+248,282,AX,Åland Islands,Åland Islands,Europe,Developed countries or areas,Northern Europe
+250,68,FR,France,the French Republic,Europe,Developed countries or areas,Western Europe
+254,69,GF,French Guiana,French Guiana,Americas,Other developing countries or areas,South America
+258,70,PF,French Polynesia,French Polynesia,Oceania,Other developing countries or areas,Polynesia
+260,71,TF,French Southern Terr,French Southern and Antarctic Territories,Africa,Other developing countries or areas,Eastern Africa
+262,72,DJ,Djibouti,the Republic of Djibouti,Africa,Least Developed Countries,Eastern Africa
+266,74,GA,Gabon,the Gabonese Republic,Africa,Other developing countries or areas,Middle Africa
+268,73,GE,Georgia,Georgia,Asia,Other developing countries or areas,Western Asia
+270,75,GM,Gambia,the Republic of the Gambia,Africa,Least Developed Countries,Western Africa
+274,76,,Gaza Strip(Palestine),,Asia,Other developing countries or areas,
+275,299,PS,Palestine,Palestine,Asia,Other developing countries or areas,Western Asia
+276,79,DE,Germany,the Federal Republic of Germany,Europe,Developed countries or areas,Western Europe
+278,77,,"Germany,New Länder",,Europe,Developed countries or areas,Western Europe
+280,78,,"Germany, Fed. Rep. of",,Europe,Developed countries or areas,Western Europe
+288,81,GH,Ghana,the Republic of Ghana,Africa,Other developing countries or areas,Western Africa
+292,82,GI,Gibraltar,Gibraltar,Europe,Developed countries or areas,Southern Europe
+296,83,KI,Kiribati,the Republic of Kiribati,Oceania,Least Developed Countries,Micronesia
+300,84,GR,Greece,the Hellenic Republic,Europe,Developed countries or areas,Southern Europe
+304,85,GL,Greenland,Greenland,Americas,Developed countries or areas,Northern America
+308,86,GD,Grenada,Grenada,Americas,Other developing countries or areas,Caribbean
+312,87,GP,Guadeloupe,Guadeloupe,Americas,Other developing countries or areas,Caribbean
+316,88,GU,Guam,Guam,Oceania,Other developing countries or areas,Micronesia
+320,89,GT,Guatemala,the Republic of Guatemala,Americas,Other developing countries or areas,Central America
+324,90,GN,Guinea,the Republic of Guinea,Africa,Least Developed Countries,Western Africa
+328,91,GY,Guyana,the Co-operative Republic of Guyana,Americas,Other developing countries or areas,South America
+332,93,HT,Haiti,the Republic of Haiti,Americas,Least Developed Countries,Caribbean
+334,92,HM,Heard and McDonald Is.,Heard Island and McDonald Island,Oceania,Developed countries or areas,Australia and New Zealand
+336,94,VA,Holy See,Holy See,Europe,Developed countries or areas,Southern Europe
+340,95,HN,Honduras,the Republic of Honduras,Americas,Other developing countries or areas,Central America
+344,96,HK,"China, Hong Kong SAR","China, Hong Kong Special Administrative Region",Asia,Other developing countries or areas,Eastern Asia
+348,97,HU,Hungary,Hungary,Europe,Developed countries or areas,Eastern Europe
+352,99,IS,Iceland,the Republic of Iceland,Europe,Developed countries or areas,Northern Europe
+356,100,IN,India,the Republic of India,Asia,Other developing countries or areas,Southern Asia
+360,101,ID,Indonesia,the Republic of Indonesia,Asia,Other developing countries or areas,South-Eastern Asia
+364,102,IR,Iran (Islamic Rep. of),the Islamic Republic of Iran,Asia,Other developing countries or areas,Southern Asia
+368,103,IQ,Iraq,the Republic of Iraq,Asia,Other developing countries or areas,Western Asia
+372,104,IE,Ireland,Ireland,Europe,Developed countries or areas,Northern Europe
+376,105,IL,Israel,the State of Israel,Asia,Developed countries or areas,Western Asia
+380,106,IT,Italy,the Republic of Italy,Europe,Developed countries or areas,Southern Europe
+384,107,CI,Côte d'Ivoire,the Republic of Côte d'Ivoire,Africa,Other developing countries or areas,Western Africa
+388,109,JM,Jamaica,Jamaica,Americas,Other developing countries or areas,Caribbean
+392,110,JP,Japan,Japan,Asia,Developed countries or areas,Eastern Asia
+396,111,JT,Johnston Island,Johnston Island,,,
+398,108,KZ,Kazakhstan,the Republic of Kazakhstan,Asia,Other developing countries or areas,Central Asia 
+400,112,JO,Jordan,the Hashemite Kingdom of Jordan,Asia,Other developing countries or areas,Western Asia
+402,245,,West Bank,The West Bank,Asia,,Western Asia
+404,114,KE,Kenya,the Republic of Kenya,Africa,Other developing countries or areas,Eastern Africa
+408,116,KP,"Korea, Dem. People's Rep",the Democratic People's Republic of Korea,Asia,Other developing countries or areas,Eastern Asia
+410,117,KR,"Korea, Republic of",the Republic of Korea,Asia,Other developing countries or areas,Eastern Asia
+414,118,KW,Kuwait,the State of Kuwait,Asia,Other developing countries or areas,Western Asia
+417,113,KG,Kyrgyzstan,the Kyrgyz Republic,Asia,Other developing countries or areas,Central Asia 
+418,120,LA,Lao People's Dem. Rep.,the Lao People's Democratic Republic,Asia,Least Developed Countries,South-Eastern Asia
+422,121,LB,Lebanon,the Lebanese Republic,Asia,Other developing countries or areas,Western Asia
+426,122,LS,Lesotho,the Kingdom of Lesotho,Africa,Least Developed Countries,Southern Africa
+428,119,LV,Latvia,the Republic of Latvia,Europe,Developed countries or areas,Northern Europe
+430,123,LR,Liberia,the Republic of Liberia,Africa,Least Developed Countries,Western Africa
+434,124,LY,Libya,State of Libya,Africa,Other developing countries or areas,Northern Africa
+438,125,LI,Liechtenstein,the Principality of Liechtenstein,Europe,Developed countries or areas,Western Europe
+440,126,LT,Lithuania,the Republic of Lithuania,Europe,Developed countries or areas,Northern Europe
+442,256,LU,Luxembourg,the Grand Duchy of Luxembourg,Europe,Developed countries or areas,Western Europe
+446,128,MO,"China, Macao SAR","China, Macao SAR",Asia,Other developing countries or areas,Eastern Asia
+450,129,MG,Madagascar,the Republic of Madagascar,Africa,Least Developed Countries,Eastern Africa
+454,130,MW,Malawi,the Republic of Malawi,Africa,Least Developed Countries,Eastern Africa
+458,131,MY,Malaysia,Malaysia,Asia,Other developing countries or areas,South-Eastern Asia
+462,132,MV,Maldives,the Republic of Maldives,Asia,Other developing countries or areas,Southern Asia
+466,133,ML,Mali,the Republic of Mali,Africa,Least Developed Countries,Western Africa
+470,134,MT,Malta,the Republic of Malta,Europe,Developed countries or areas,Southern Europe
+474,135,MQ,Martinique,Martinique,Americas,Other developing countries or areas,Caribbean
+478,136,MR,Mauritania,the Islamic Republic of Mauritania,Africa,Least Developed Countries,Western Africa
+480,137,MU,Mauritius,the Republic of Mauritius,Africa,Other developing countries or areas,Eastern Africa
+484,138,MX,Mexico,the United Mexican States,Americas,Other developing countries or areas,Central America
+488,139,MI,Midway Islands,Midway Island,,,
+492,140,MC,Monaco,the Principality of Monaco,Europe,Developed countries or areas,Western Europe
+496,141,MN,Mongolia,Mongolia,Asia,Other developing countries or areas,Eastern Asia
+498,146,MD,"Moldova, Republic of",the Republic of Moldova,Europe,Developed countries or areas,Eastern Europe
+499,273,ME,Montenegro,Montenegro,Europe,Developed countries or areas,Southern Europe
+500,142,MS,Montserrat,Montserrat,Americas,Other developing countries or areas,Caribbean
+504,143,MA,Morocco,the Kingdom of Morocco,Africa,Other developing countries or areas,Northern Africa
+508,144,MZ,Mozambique,the Republic of Mozambique,Africa,Least Developed Countries,Eastern Africa
+512,221,OM,Oman,the Sultanate of Oman,Asia,Other developing countries or areas,Western Asia
+516,147,,Namibia,the Republic of Namibia,Africa,Other developing countries or areas,Southern Africa
+520,148,NR,Nauru,the Republic of Nauru,Oceania,Other developing countries or areas,Micronesia
+524,149,NP,Nepal,Federal Democratic Republic of Nepal,Asia,Least Developed Countries,Southern Asia
+528,150,NL,Netherlands,the Kingdom of the Netherlands,Europe,Developed countries or areas,Western Europe
+530,151,AN,Netherlands Antilles,Netherlands Antilles,Americas,Other developing countries or areas,Caribbean
+531,286,CW,Curaçao,Curaçao,Americas,Other developing countries or areas,Caribbean
+532,278,AN,Netherlands Antilles,Netherlands Antilles,,,
+533,22,AW,Aruba,Aruba,Americas,Other developing countries or areas,Caribbean
+534,289,SX,Sint Maarten,Sint Maarten (Dutch Part),Americas,Other developing countries or areas,Caribbean
+535,283,BQ,Bonaire/S.Eustatius/Saba,"Bonaire, Sint Eustatius and Saba",Americas,Other developing countries or areas,Caribbean
+536,152,,Neutral Zone,,,,
+540,153,NC,New Caledonia,New Caledonia,Oceania,Other developing countries or areas,Melanesia
+548,155,VU,Vanuatu,the Republic of Vanuatu,Oceania,Least Developed Countries,Melanesia
+554,156,NZ,New Zealand,New Zealand,Oceania,Developed countries or areas,Australia and New Zealand
+558,157,NI,Nicaragua,the Republic of Nicaragua,Americas,Other developing countries or areas,Central America
+562,158,NE,Niger,the Republic of the Niger,Africa,Least Developed Countries,Western Africa
+566,159,NG,Nigeria,the Federal Republic of Nigeria,Africa,Other developing countries or areas,Western Africa
+570,160,NU,Niue,the Republic of Niue,Oceania,Other developing countries or areas,Polynesia
+574,161,NF,Norfolk Island,Territory of Norfolk Island,Oceania,Developed countries or areas,Australia and New Zealand
+578,162,NO,Norway,the Kingdom of Norway,Europe,Developed countries or areas,Northern Europe
+580,163,MP,Northern Mariana Is.,Northern Mariana Islands,Oceania,Other developing countries or areas,Micronesia
+581,232,UM,US Minor Outlying Is.,the United States Minor Islands,Oceania,Other developing countries or areas,Micronesia
+582,164,,Pacific Islands Trust Tr,Pacific Islands Trust Territory,,,
+583,145,FM,"Micronesia, Fed.States of",the Federated States of Micronesia,Oceania,Other developing countries or areas,Micronesia
+584,127,MH,Marshall Islands,the Republic of the Marshall Islands,Oceania,Other developing countries or areas,Micronesia
+585,180,PW,Palau,the Republic of Palau,Oceania,Other developing countries or areas,Micronesia
+586,165,PK,Pakistan,the Islamic Republic of Pakistan,Asia,Other developing countries or areas,Southern Asia
+591,166,PA,Panama,the Republic of Panama,Americas,Other developing countries or areas,Central America
+598,168,PG,Papua New Guinea,Independent State of Papua New Guinea,Oceania,Other developing countries or areas,Melanesia
+600,169,PY,Paraguay,the Republic of Paraguay,Americas,Other developing countries or areas,South America
+604,170,PE,Peru,the Republic of Peru,Americas,Other developing countries or areas,South America
+608,171,PH,Philippines,the Republic of the Philippines,Asia,Other developing countries or areas,South-Eastern Asia
+612,172,PN,Pitcairn Islands,Pitcairn Islands,Oceania,Other developing countries or areas,Polynesia
+616,173,PL,Poland,the Republic of Poland,Europe,Developed countries or areas,Eastern Europe
+620,174,PT,Portugal,the Portuguese Republic,Europe,Developed countries or areas,Southern Europe
+624,175,GW,Guinea-Bissau,the Republic of Guinea-Bissau,Africa,Least Developed Countries,Western Africa
+626,176,TL,Timor-Leste,the Democratic Republic of Timor-Leste,Asia,Least Developed Countries,South-Eastern Asia
+630,177,PR,Puerto Rico,Puerto Rico,Americas,Other developing countries or areas,Caribbean
+634,179,QA,Qatar,the State of Qatar,Asia,Other developing countries or areas,Western Asia
+638,182,RE,Réunion,Réunion,Africa,Other developing countries or areas,Eastern Africa
+642,183,RO,Romania,Romania,Europe,Developed countries or areas,Eastern Europe
+643,185,RU,Russian Federation,the Russian Federation,Europe,Developed countries or areas,Eastern Europe
+646,184,RW,Rwanda,the Republic of Rwanda,Africa,Least Developed Countries,Eastern Africa
+652,287,BL,Saint Barthélemy,Saint Barthélemy,Americas,Other developing countries or areas,Caribbean
+654,187,SH,Saint Helena,"Saint Helena, Ascension and Tristan da Cunha",Africa,Other developing countries or areas,Western Africa
+659,188,KN,Saint Kitts and Nevis,Saint Kitts and Nevis,Americas,Other developing countries or areas,Caribbean
+660,258,AI,Anguilla,Anguilla,Americas,Other developing countries or areas,Caribbean
+662,189,LC,Saint Lucia,Saint Lucia,Americas,Other developing countries or areas,Caribbean
+663,288,MF,Saint-Martin,Saint-Martin (French Part),Americas,Other developing countries or areas,Caribbean
+666,190,PM,St. Pierre and Miquelon,Saint Pierre and Miquelon,Americas,Developed countries or areas,Northern America
+670,191,VC,Saint Vincent/Grenadines,Saint Vincent and the Grenadines,Americas,Other developing countries or areas,Caribbean
+674,192,SM,San Marino,the Republic of San Marino,Europe,Developed countries or areas,Southern Europe
+678,193,ST,Sao Tome and Principe,the Democratic Republic of Sao Tome and Principe,Africa,Least Developed Countries,Middle Africa
+680,294,,Sark,,Europe,Developed countries or areas,Northern Europe
+682,194,SA,Saudi Arabia,the Kingdom of Saudi Arabia,Asia,Other developing countries or areas,Western Asia
+686,195,SN,Senegal,the Republic of Senegal,Africa,Least Developed Countries,Western Africa
+688,272,RS,Serbia,the Republic of Serbia,Europe,Developed countries or areas,Southern Europe
+690,196,SC,Seychelles,the Republic of Seychelles,Africa,Other developing countries or areas,Eastern Africa
+694,197,SL,Sierra Leone,the Republic of Sierra Leone,Africa,Least Developed Countries,Western Africa
+702,200,SG,Singapore,the Republic of Singapore,Asia,Other developing countries or areas,South-Eastern Asia
+703,199,SK,Slovakia,the Slovak Republic,Europe,Developed countries or areas,Eastern Europe
+704,237,VN,Viet Nam,the Socialist Republic of Viet Nam,Asia,Other developing countries or areas,South-Eastern Asia
+705,198,SI,Slovenia,the Republic of Slovenia,Europe,Developed countries or areas,Southern Europe
+706,201,SO,Somalia,the Federal Republic of Somalia,Africa,Least Developed Countries,Eastern Africa
+710,202,ZA,South Africa,the Republic of South Africa,Africa,Other developing countries or areas,Southern Africa
+716,181,ZW,Zimbabwe,the Republic of Zimbabwe,Africa,Other developing countries or areas,Eastern Africa
+720,247,,"Yemen, Democratic",,Asia,Least Developed Countries,Western Asia
+724,203,ES,Spain,the Kingdom of Spain,Europe,Developed countries or areas,Southern Europe
+728,290,SS,South Sudan,the Republic of South Sudan,Africa,Least Developed Countries,Eastern Africa
+729,298,SD,Sudan,the Republic of the Sudan,Africa,Least Developed Countries,Northern Africa
+732,205,EH,Western Sahara,Western Sahara,Africa,Other developing countries or areas,Northern Africa
+736,206,,Sudan (former),the Republic of the Sudan,Africa,Least Developed Countries,Northern Africa
+740,207,SR,Suriname,the Republic of Suriname,Americas,Other developing countries or areas,South America
+744,260,SJ,Svalbard and Jan Mayen,Svalbard and Jan Mayen Islands,Europe,Developed countries or areas,Northern Europe
+748,209,SZ,Eswatini,the Kingdom of Eswatini,Africa,Other developing countries or areas,Southern Africa
+752,210,SE,Sweden,the Kingdom of Sweden,Europe,Developed countries or areas,Northern Europe
+756,211,CH,Switzerland,the Swiss Confederation,Europe,Developed countries or areas,Western Europe
+760,212,SY,Syrian Arab Republic,the Syrian Arab Republic,Asia,Other developing countries or areas,Western Asia
+762,208,TJ,Tajikistan,the Republic of Tajikistan,Asia,Other developing countries or areas,Central Asia 
+764,216,TH,Thailand,the Kingdom of Thailand,Asia,Other developing countries or areas,South-Eastern Asia
+768,217,TG,Togo,the Togolese Republic,Africa,Least Developed Countries,Western Africa
+772,218,TK,Tokelau,Tokelau,Oceania,Other developing countries or areas,Polynesia
+776,219,TO,Tonga,the Kingdom of Tonga,Oceania,Other developing countries or areas,Polynesia
+780,220,TT,Trinidad and Tobago,the Republic of Trinidad and Tobago,Americas,Other developing countries or areas,Caribbean
+784,225,AE,United Arab Emirates,the United Arab Emirates,Asia,Other developing countries or areas,Western Asia
+788,222,TN,Tunisia,the Republic of Tunisia,Africa,Other developing countries or areas,Northern Africa
+792,223,TR,Turkey,the Republic of Turkey,Asia,Other developing countries or areas,Western Asia
+795,213,TM,Turkmenistan,Turkmenistan,Asia,Other developing countries or areas,Central Asia 
+796,224,TC,Turks and Caicos Is.,Turks and Caicos Islands,Americas,Other developing countries or areas,Caribbean
+798,227,TV,Tuvalu,Tuvalu,Oceania,Least Developed Countries,Polynesia
+800,226,UG,Uganda,the Republic of Uganda,Africa,Least Developed Countries,Eastern Africa
+804,230,UA,Ukraine,Ukraine,Europe,Developed countries or areas,Eastern Europe
+807,154,MK,North Macedonia,the Republic of North Macedonia,Europe,Developed countries or areas,Southern Europe
+810,228,SU,Un. Sov. Soc. Rep.,Union of Soviet Socialist Republics,,Developed countries or areas,
+818,59,EG,Egypt,the Arab Republic of Egypt,Africa,Other developing countries or areas,Northern Africa
+826,229,GB,United Kingdom,the United Kingdom of Great Britain and Northern Ireland,Europe,Developed countries or areas,Northern Europe
+830,259,,Channel Islands,Channel Islands,Europe,Developed countries or areas,Northern Europe
+831,284,GG,Guernsey,Bailiwick of Guernsey,Europe,Developed countries or areas,Northern Europe
+832,285,JE,Jersey,Bailiwick of Jersey,Europe,Developed countries or areas,Northern Europe
+833,264,IM,Isle of Man,Isle of Man,Europe,Developed countries or areas,Northern Europe
+834,215,TZ,"Tanzania, United Rep. of",the United Republic of Tanzania,Africa,Least Developed Countries,Eastern Africa
+836,276,,Zanzibar,Zanzibar,Africa,Least Developed Countries,Eastern Africa
+840,231,US,United States of America,the United States of America,Americas,Developed countries or areas,Northern America
+850,240,VI,US Virgin Islands,the United States Virgin Islands,Americas,Other developing countries or areas,Caribbean
+854,233,BF,Burkina Faso,Burkina Faso,Africa,Least Developed Countries,Western Africa
+858,234,UY,Uruguay,the Eastern Republic of Uruguay,Americas,Other developing countries or areas,South America
+860,235,UZ,Uzbekistan,the Republic of Uzbekistan,Asia,Other developing countries or areas,Central Asia 
+862,236,VE,"Venezuela, Boliv Rep of",the Bolivarian Republic of Venezuela,Americas,Other developing countries or areas,South America
+872,242,WK,Wake Island,Wake Island,,,
+876,243,WF,Wallis and Futuna Is.,Wallis and Futuna Islands,Oceania,Other developing countries or areas,Polynesia
+882,244,WS,Samoa,the Independent State of Samoa,Oceania,Other developing countries or areas,Polynesia
+886,246,,Yemen Arab Republic,,Asia,Least Developed Countries,Western Asia
+887,249,YE,Yemen,the Republic of Yemen,Asia,Least Developed Countries,Western Asia
+890,248,YU,Yugoslavia SFR,Socialist Federal Republic of Yugoslavia ,Europe,Developed countries or areas,Southern Europe
+891,186,CS,Serbia and Montenegro,Serbia and Montenegro,Europe,Developed countries or areas,Southern Europe
+894,251,ZM,Zambia,the Republic of Zambia,Africa,Least Developed Countries,Eastern Africa
+896,252,,Other nei,Others,,,

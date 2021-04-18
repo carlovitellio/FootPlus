@@ -1,0 +1,9 @@
+The dataset is downloaded from here: http://www.fao.org/fishery/statistics/global-production/en
+
+This database contains the volume of aquatic species caught by country or area, by species items, by FAO major fishing areas, and year, for all commercial, industrial, recreational and subsistence purposes. 
+The harvest from mariculture, aquaculture and other kinds of fish farming is also included.
+
+The main data is TS_FI_PRODUCTION. Hoever it contains only codes and acronyms, which are "explained" inside the CL_* files.
+
+To reconstruct the dataset with meaningful values, you have to map codes into actual name/strings.
+
