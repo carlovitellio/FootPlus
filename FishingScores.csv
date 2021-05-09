@@ -1,0 +1,733 @@
+Rating,Where,Location,Method,Certification,fish_name,Feed,Environment,Fish Health and Welfare,Management,Stock Status,Capture method
+1,Farmed,"Global: France, All",Open water crate,Organic,Abalone,5,4,1,6,,
+1,Farmed,"Global: Ireland, All","Closed system, RAS",,Abalone,5,8,1,3,,
+1,Caught at sea,Bering Sea and Aleutian Islands: Certified fleets only,Net (pelagic trawl),Marine Stewardship Council (MSC),Alaska pollock,,,,0,0,0.25
+1,Caught at sea,Gulf of Alaska: All areas,Net (pelagic trawl),Marine Stewardship Council (MSC),Alaska pollock,,,,0,0,0.25
+1,Caught at sea,Sea of Okhotsk: All areas,Net (pelagic trawl),Marine Stewardship Council (MSC),Alaska pollock,,,,0.25,0,0.25
+1,Caught at sea,Bering Sea and Aleutian Islands: All areas,Net (pelagic trawl),,Alaska pollock,,,,0,0,0.25
+1,Caught at sea,Gulf of Alaska: All areas,Net (pelagic trawl),,Alaska pollock,,,,0,0,0.25
+4,Caught at sea,Bering Sea (West): Navarinsky stock: All areas,Net (pelagic trawl),,Alaska pollock,,,,0.5,0.75,0.25
+5,Caught at sea,Bering Sea (West): All areas,Net (pelagic trawl),,Alaska pollock,,,,0.75,1,0.25
+1,Caught at sea,North Atlantic: Certified fleets only,Hook & line (pole & line),Marine Stewardship Council (MSC),Albacore tuna,,,,0.5,0,0.75
+1,Caught at sea,North Atlantic: Certified fleets only,Hook & line (troll),Marine Stewardship Council (MSC),Albacore tuna,,,,0.5,0,0.75
+2,Caught at sea,South Pacific: All areas,Hook & line (troll),,Albacore tuna,,,,0.5,0,0.75
+4,Caught at sea,Indian Ocean: All areas,Hook & line (longline),,Albacore tuna,,,,0.5,0,0.75
+2,Caught at sea,North Pacific: All areas,Hook & line (pole & line),,Albacore tuna,,,,0.5,0,0.75
+2,Caught at sea,South Atlantic: All areas,Hook & line (pole & line),,Albacore tuna,,,,0.25,0,0.5
+2,Caught at sea,North Pacific: All areas,Hook & line (troll),,Albacore tuna,,,,0.5,0,0
+3,Caught at sea,North Pacific: All areas,Hook & line (longline),,Albacore tuna,,,,0.5,0,0
+2,Caught at sea,South Pacific: Certified fleets only,Hook & line (longline),Marine Stewardship Council (MSC),Albacore tuna,,,,0.5,0,0.25
+3,Caught at sea,South Pacific: All areas,Hook & line (longline),,Albacore tuna,,,,0.5,0,0.25
+2,Caught at sea,North Atlantic: All areas,Hook & line (pole & line),,Albacore tuna,,,,0.75,0.5,0.75
+3,Caught at sea,South Atlantic: All areas,Hook & line (longline),,Albacore tuna,,,,0.5,0,0
+3,Caught at sea,North Atlantic: All areas,Hook & line (longline),,Albacore tuna,,,,0.25,0,0
+3,Caught at sea,North Atlantic: All areas,Net (pelagic trawl),,Albacore tuna,,,,0.25,0,0.25
+2,Caught at sea,North Atlantic: All areas,Hook & line (troll),,Albacore tuna,,,,0.5,0,0.25
+?,Caught at sea,Canada: Canadian EEZ,"Pot, trap or creel",,American lobster,,,,,,
+?,Caught at sea,USA: Gulf of Maine and Georges Bank: All areas,"Pot, trap or creel",Marine Stewardship Council (MSC),American lobster,,,,,,
+?,Caught at sea,Southern New England: All areas,"Pot, trap or creel",,American lobster,,,,,,
+5,Caught at sea,North East Atlantic: All areas,All applicable methods,,Angel shark,,,,,!,
+1,Farmed,"Global: UK, All","Tanks, flow through",,Arctic char,2,2,1,5,,
+4,Caught at sea,Argentine and Falkland Is EEZs & adjacent high seas: All areas,Hook & line (jig),,Argentine shortfin squid,,,,,,
+4,Caught at sea,Argentine and Falkland Is EEZs & adjacent high seas: All areas,Net (pelagic trawl),,Argentine shortfin squid,,,,,,
+4,Caught at sea,East Atlantic & Mediterranean: All areas,Net (purse seine),,Atlantic bluefin tuna,,,,0.5,0.75,0.5
+4,Caught at sea,East Atlantic & Mediterranean: All areas,"Pot, trap or creel",,Atlantic bluefin tuna,,,,0.5,0.75,0.25
+4,Caught at sea,East Atlantic & Mediterranean: All areas,"Handline, pole and line",,Atlantic bluefin tuna,,,,0.5,0.75,0.25
+5,Farmed,"Global: Mediterranean, All","Marine net pen, capture-based",,Atlantic bluefin tuna,-6,-4,-1,-3,,
+5,Caught at sea,East Atlantic & Mediterranean: All areas,Hook & line (longline),,Atlantic bluefin tuna,,,,0.5,0.75,0.75
+1,Caught at sea,Iceland: All areas,Net (gill or fixed),Marine Stewardship Council (MSC),Atlantic cod,,,,,!,
+1,Caught at sea,Iceland: All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Atlantic cod,,,,,!,
+2,Caught at sea,Northeast Arctic (Barents and Norwegian Sea): All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Atlantic cod,,,,0.75,0.75,0.5
+2,Caught at sea,Northeast Arctic (Barents and Norwegian Sea): All areas,Bottom trawl (otter),,Atlantic cod,,,,0.75,0.75,0.75
+3,Caught at sea,Faroe Plateau: All areas,Hook & line (jig),,Atlantic cod,,,,,!,
+4,Caught at sea,Faroe Plateau: All areas,Hook & line (longline),,Atlantic cod,,,,0.75,0.5,1
+5,Caught at sea,"Celtic Seas (southern), Western English Channel: All areas",Bottom trawl (beam),,Atlantic cod,,,,,!,
+4,Caught at sea,Irish Sea: All areas,Bottom trawl (otter),,Atlantic cod,,,,,!,
+4.5,Caught at sea,Canadian EEZ & NAFO Area: All areas,All applicable methods,Fishery Improvement Project: Stage 5,Atlantic cod,,,,,!,
+5,Caught at sea,"Celtic Seas (southern), Western English Channel: All areas",Bottom trawl (otter),,Atlantic cod,,,,,!,
+1,Caught at sea,Iceland: All areas,Hook & line (longline),Marine Stewardship Council (MSC),Atlantic cod,,,,,!,
+5,Caught at sea,"Celtic Seas (southern), Western English Channel: All areas",Net (gill or fixed),,Atlantic cod,,,,,!,
+5,Caught at sea,Kattegat: All areas,Bottom trawl (otter),,Atlantic cod,,,,,!,
+4,Caught at sea,Rockall: All areas,Bottom trawl (otter),,Atlantic cod,,,,,!,
+5,Caught at sea,Norwegian Coast: All areas,All applicable methods,,Atlantic cod,,,,,!,
+5,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Atlantic cod,,,,0.75,0.5,0.5
+5,Caught at sea,Kattegat: All areas,Net (gill or fixed),,Atlantic cod,,,,1,1,0.5
+5,Caught at sea,"North Sea, English Channel (East), Skagerrak: All areas",Bottom trawl (otter),,Atlantic cod,,,,0,0,0.5
+5,Caught at sea,West of Scotland: All areas,Bottom trawl (otter),,Atlantic cod,,,,0,0,0.5
+5,Caught at sea,Baltic Sea (West) (Subdivisions 22-24): All areas,Bottom trawl (otter),,Atlantic cod,,,,0,0,0.5
+5,Caught at sea,Baltic Sea (West) (Subdivisions 22-24): All areas,Net (gill or fixed),,Atlantic cod,,,,0.25,0,0.75
+5,Caught at sea,"North Sea, English Channel (East), Skagerrak: All areas",Net (gill or fixed),,Atlantic cod,,,,0.25,0,0.75
+5,Caught at sea,West Greenland: Inshore: All areas,"Pot, trap or creel",,Atlantic cod,,,,0.75,0.5,0
+5,Caught at sea,"North Sea, English Channel (East), Skagerrak: All areas",Bottom trawl (otter),Marine Stewardship Council (MSC) - Suspended,Atlantic cod,,,,0.75,0.5,0.5
+5,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Atlantic cod,,,,0.75,0.5,0.5
+5,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Atlantic cod,,,,0.75,0.5,0.5
+5,Caught at sea,Kattegat: All areas,Net (demersal seine),,Atlantic cod,,,,,!,
+5,Caught at sea,Baltic Sea (East) (Subdivisions 24-32): All areas,Bottom trawl (otter),,Atlantic cod,,,,,!,
+5,Caught at sea,West Greenland: Offshore: All areas,All applicable methods,,Atlantic cod,,,,,!,
+5,Caught at sea,Cornwall: All areas,Hook & line (handline),,Atlantic cod,,,,,!,
+4,Caught at sea,Faroe Plateau: All areas,Bottom trawl (otter),,Atlantic cod,,,,,!,
+3,Farmed,"Global: Norway, All","Open net pen, marine",GLOBALG.A.P.,Atlantic halibut,,,,0.75,1,0.5
+1,Farmed,"Global: UK, Scotland","Tanks, flow through",,Atlantic halibut,,,,0.75,1,0.5
+5,Caught at sea,All Areas: All areas,Net (gill or fixed),,Atlantic halibut,,,,0.75,1,0.25
+5,Caught at sea,Norway: All areas,Hook & line (longline),,Atlantic halibut,,,,0.75,1,0.75
+5,Caught at sea,Norway: All areas,Net (gill or fixed),,Atlantic halibut,-5,1,1,6,,
+5,Caught at sea,Norway: All areas,Bottom trawl (otter),,Atlantic halibut,2,5,1,2,,
+5,Caught at sea,All Areas: All areas,Bottom trawl (otter),,Atlantic halibut,,,,0.75,1,0.5
+3,Farmed,"Global: Norway, All","Open net pen, marine",,Atlantic salmon,,,,,!,
+1,Farmed,"Global: Global, Denmark","Closed system, RAS",,Atlantic salmon,,,,,!,
+2,Farmed,"Global: Europe, All","Open net pen, marine",Organic,Atlantic salmon,,,,,!,
+2,Farmed,"Global: Scotland and Norway, All","Open net pen, marine",Aquaculture Stewardship Council (ASC),Atlantic salmon,0,-3,0,-1,,
+3,Farmed,"Global: UK, Scotland","Open net pen, marine",,Atlantic salmon,1,0,1,0,,
+3,Farmed,"Global: Scotland, Norway and Faroe Islands, All","Open net pen, marine",GLOBALG.A.P.,Atlantic salmon,-1,-4,1,5,,
+3,Farmed,"Global: Scotland and Norway, All","Open net pen, marine","Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 3*, Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 4*",Atlantic salmon,-2,-5,1,5,,
+4,Farmed,"Global: Chile, All","Open net pen, marine",,Atlantic salmon,1,-5,1,2,,
+5,Caught at sea,NE Atlantic: All rivers not classified as 'Not at risk' by the Environment Agency,Net (gill or fixed; drift),,Atlantic salmon,0,-2,0,6,,
+5,Caught at sea,NE Atlantic: All areas and all rivers not achieving conservation limits,Net (gill or fixed; drift),,Atlantic salmon,4,-4,1,6,,
+5,Caught at sea,NE Atlantic: Rivers listed as Grade 2 or 3 by Marine Scotland,Net (gill or fixed; drift),,Atlantic salmon,1,8,0,4,,
+3,Farmed,"Global: Faroe Islands, All","Open net pen, marine",,Atlantic salmon,1,-6,1,2,,
+4,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Ballan wrasse,,,,0.75,0.5,0.5
+2,Farmed,"Global: Global, All","Open net pen, freshwater",Aquaculture Stewardship Council (ASC),Basa,-1,-7,-1,3,,
+2,Farmed,"Global: Vietnam, All","Open net pen, freshwater",GLOBALG.A.P.,Basa,0,-2,1,5,,
+4,Farmed,"Global: Vietnam, Mekong Delta","Open net pen, freshwater",,Basa,1,-2,1,5,,
+2,Farmed,"Global: Vietnam, Mekong Delta","Open net pen, freshwater",Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 3*,Basa,1,-1,0,5,,
+3,Caught at sea,Cornwall Inshore: 0-6nm: All areas,Hook & line (pole & line),,Black bream,,,,0.75,0.75,0.5
+4,Caught at sea,Cornwall Inshore: 0-6nm: All areas,Bottom trawl (otter),,Black bream,,,,0.75,0.75,0.5
+3,Caught at sea,English Channel: Sussex IFCA District (0-6nm),Hook & line (pole & line),,Black bream,,,,0.75,0.75,0.5
+4,Caught at sea,Cornwall Inshore: 0-6nm: All areas,Net (gill or fixed),,Black bream,,,,0.5,0.75,0.5
+4,Caught at sea,English Channel: Sussex IFCA District (0-6nm),Bottom trawl (otter),,Black bream,,,,0.5,0.75,0.5
+4,Caught at sea,English Channel: All areas except Sussex and Cornwall IFCA districts,Hook & line (pole & line),,Black bream,,,,0.5,0.75,0.5
+4,Caught at sea,English Channel: Sussex IFCA District (0-6nm),Net (gill or fixed),,Black bream,,,,0.75,0.5,0.5
+5,Caught at sea,English Channel: All areas except Sussex and Cornwall IFCA districts,Net (pelagic trawl),,Black bream,,,,0.75,0.75,0
+5,Caught at sea,English Channel: All areas except Sussex and Cornwall IFCA districts,Net (gill or fixed),,Black bream,,,,0.5,0.75,0
+5,Caught at sea,English Channel: All areas except Sussex and Cornwall IFCA districts,Bottom trawl (otter),,Black bream,,,,0.75,0.5,0
+4,Caught at sea,English Channel: Sussex IFCA District (0-6nm),Net (pelagic trawl),,Black bream,,,,0.75,0.5,0.5
+4,Caught at sea,"Celtic Seas (South), Bay of Biscay: All areas",Net (gill or fixed),,Black-bellied monkfish,,,,0.5,0.5,0.75
+4,Caught at sea,"Celtic Seas (South), Bay of Biscay: Cornwall",Bottom trawl (beam),,Black-bellied monkfish,,,,0.5,0.5,0.5
+3,Caught at sea,"Celtic Seas (South), Bay of Biscay: All areas",Bottom trawl (otter),,Black-bellied monkfish,,,,0.5,0.5,0.5
+3,Caught at sea,"Celtic Seas (South), Bay of Biscay: Cornwall",Bottom trawl (otter),,Black-bellied monkfish,,,,0.5,0.5,0.5
+3,Caught at sea,"Celtic Seas (South), Bay of Biscay: Cornwall",Net (gill or fixed),,Black-bellied monkfish,,,,0.5,0.5,0.75
+4,Caught at sea,"Celtic Seas (South), Bay of Biscay: All areas",Bottom trawl (beam),,Black-bellied monkfish,,,,0.5,0.5,1
+5,Caught at sea,Bristol Channel: All areas,Bottom trawl (otter),,Blonde ray,,,,0.75,1,0.75
+5,Caught at sea,Western English Channel: All areas,Bottom trawl (otter),,Blonde ray,,,,0.5,1,0.75
+5,Caught at sea,Southern North Sea and Eastern English Channel: All areas,Bottom trawl (beam),,Blonde ray,,,,0.75,1,0.5
+5,Caught at sea,Irish and Celtic Seas: All areas,Bottom trawl (otter),,Blonde ray,,,,0.75,1,0.5
+5,Caught at sea,Northern North Sea and West of Scotland: All areas,Bottom trawl (otter),,Blonde ray,,,,0.75,1,0.5
+5,Caught at sea,Bristol Channel: All areas,Bottom trawl (beam),,Blonde ray,,,,0.5,1,0.5
+5,Caught at sea,Northern North Sea and West of Scotland: All areas,Bottom trawl (beam),,Blonde ray,,,,0.75,1,0.5
+5,Caught at sea,Cornwall: All areas,All applicable methods,,Blonde ray,,,,0.75,0.75,0.75
+5,Caught at sea,Atlantic: All areas,Hook & line (longline),,Blue marlin,,,,0.75,0.75,0.75
+1,Farmed,"Global: UK and Ireland (Republic of), All","Culture, suspension; Culture, bottom","Aquaculture Stewardship Council (ASC), Marine Stewardship Council (MSC)",Blue mussel,5,4,1,5,,
+1,Farmed,"Global: UK and Ireland (Republic of), All","Culture, suspension; Culture, bottom",,Blue mussel,5,4,1,2,,
+3,Caught at sea,UK: All areas,Hand-gathered,,Blue mussel,,,,,,
+?,Caught at sea,UK: All areas,Dredge,,Blue mussel,,,,,,?
+?,Caught at sea,UK: All areas,Dredge (suction),,Blue mussel,,,,,,?
+5,Caught at sea,North East Atlantic: Cornwall,All applicable methods,,Blue shark,,,,1,1,1
+5,Caught at sea,North East Atlantic: All areas,All applicable methods,,Blue shark,,,,1,1,0.5
+3,Caught at sea,"North Sea, Skagerrak and Kattegat, English Channel: All areas",Bottom trawl (beam),,Brill,,,,0.5,0.25,0.75
+3,Caught at sea,"North Sea, Skagerrak and Kattegat, English Channel: All areas",Net (gill or fixed),,Brill,,,,0.5,0.25,0.5
+3,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Brill,,,,0.75,0.25,0.5
+3,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Brill,,,,0.75,0.25,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Brill,,,,0.75,0.25,0.75
+3,Caught at sea,Scotland: Orkney,"Pot, trap or creel",,Brown crab,,,,0.5,0.5,0
+3,Caught at sea,Irish Sea: All areas,"Pot, trap or creel",,Brown crab,,,,0.75,1,0
+3,Caught at sea,Cornwall: All areas,"Pot, trap or creel",,Brown crab,,,,0.75,0.5,0
+3,Caught at sea,Eastern English Channel: Kent and Essex IFCA District (0-6nm),"Pot, trap or creel",,Brown crab,,,,0.75,0.75,0
+4,Caught at sea,Central North Sea: North Eastern IFCA District (0-6nm),"Pot, trap or creel",,Brown crab,,,,0.5,0.75,0
+3,Caught at sea,Western English Channel: Devon and Severn IFCA District (0-6nm),"Pot, trap or creel",,Brown crab,,,,0.75,0.75,0
+2,Caught at sea,Scotland: Shetland,"Pot, trap or creel",Marine Stewardship Council (MSC),Brown crab,,,,0.75,1,0
+3,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Brown crab,,,,0.75,1,0
+3,Caught at sea,Cornwall: All areas,"Pot, trap or creel",,Brown crab,,,,0.75,0.5,0
+3,Caught at sea,Central North Sea: Northumberland IFCA District (0-6nm),"Pot, trap or creel",,Brown crab,,,,0.5,0.75,0.5
+3,Caught at sea,Western English Channel: Southern IFCA District (0-6nm),"Pot, trap or creel",,Brown crab,,,,0.75,0.5,0
+3,Caught at sea,Celtic Sea: Devon and Severn IFCA District (0-6nm),"Pot, trap or creel",,Brown crab,,,,0.75,0.5,0
+4,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Brown crab,,,,0.5,0.5,0
+3,Caught at sea,Western English Channel: Isles of Scilly IFCA District (0-6nm),"Pot, trap or creel",,Brown crab,,,,0.5,0.75,0
+4,Caught at sea,Southern North Sea: Eastern IFCA District (0-6nm),"Pot, trap or creel",,Brown crab,,,,0.5,0.75,0
+4,Caught at sea,Southern North Sea: Kent and Essex IFCA District (0-6nm),"Pot, trap or creel",,Brown crab,,,,0.75,0.5,0
+4,Caught at sea,Celtic Sea: Welsh waters,"Pot, trap or creel",,Brown crab,,,,0.75,0.5,0
+3,Caught at sea,Irish Sea: North Western IFCA District (0-6nm),"Pot, trap or creel",,Brown crab,,,,0.5,0.75,0
+4,Caught at sea,Southern North Sea: North Eastern IFCA District (0-6nm),"Pot, trap or creel",,Brown crab,,,,0.5,0.5,0
+3,Caught at sea,Eastern English Channel: Sussex IFCA District (0-6nm),"Pot, trap or creel",,Brown crab,,,,0.25,0.25,0
+3,Caught at sea,Irish Sea: Welsh waters,"Pot, trap or creel",,Brown crab,,,,0.5,0.5,0.5
+?,Caught at sea,North Sea: All areas,Bottom trawl (beam),,Brown shrimp,,,,,,
+?,Caught at sea,Solway Firth: All areas,Bottom trawl (beam),,Brown shrimp,,,,,,
+3,Caught at sea,South Africa: All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Cape hake,,,,0,0.5,0.5
+1,Farmed,"Global: Chile, All","Culture, suspension; Culture, bottom",All,Chilean mussel,5,4,1,4,,
+3,Caught at sea,England: Kent & Essex IFCA district (within the TECFO area only),Dredge (suction),,Cockle,,,,0.5,0.5,0.5
+3,Caught at sea,England: Eastern IFCA District (0-6nm),Hand-gathered,,Cockle,,,,0.25,0.75,0.25
+5,Caught at sea,England: Kent & Essex IFCA district (outside the TECFO area),Dredge (suction),,Cockle,,,,0.5,0.75,0.75
+1,Caught at sea,Iceland: All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Coley,,,,0.25,0.5,0.75
+1,Caught at sea,Iceland: All areas,Net (gill or fixed),Marine Stewardship Council (MSC),Coley,,,,0.5,0,0.5
+2,Caught at sea,Northeast Arctic: All areas,Bottom trawl (otter),,Coley,,,,0.25,0.5,0.5
+1,Caught at sea,Northeast Arctic: All areas,Net (purse seine),,Coley,,,,0.25,0,0.5
+3,Caught at sea,"North Sea, West of Scotland and Rockall, Skagerrak: All areas",Bottom trawl (otter),Marine Stewardship Council (MSC),Coley,,,,0.25,0,0.25
+2,Caught at sea,Faroes grounds: All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Coley,,,,0,0,0.5
+3,Caught at sea,"North Sea, West of Scotland and Rockall, Skagerrak: All areas",Bottom trawl (otter),,Coley,,,,0,0,0.5
+2,Caught at sea,Northeast Arctic: All areas,Net (gill or fixed),,Coley,,,,0.25,0,0.75
+4,Caught at sea,English Channel and Celtic Seas: Inshore (0-6nm) (excluding Cornwall IFCA District),"Pot, trap or creel",,Common cuttlefish,,,,0.75,1,0
+4,Caught at sea,English Channel and Celtic Seas: Cornwall IFCA District (0-6nm): Pot caught,"Pot, trap or creel",,Common cuttlefish,,,,0.75,1,0
+5,Caught at sea,English Channel and Celtic Seas: Offshore (beyond 6 nm),Bottom trawl (otter),,Common cuttlefish,,,,1,1,0.5
+5,Caught at sea,English Channel and Celtic Seas: Cornwall IFCA District (0-6nm),Bottom trawl (otter),,Common cuttlefish,,,,1,1,0.5
+5,Caught at sea,English Channel and Celtic Seas: Offshore (beyond 6 nm),Bottom trawl (beam),,Common cuttlefish,,,,1,1,0.75
+5,Caught at sea,English Channel and Celtic Seas: France (0-3nm),Bottom trawl (beam),,Common cuttlefish,,,,1,1,0.75
+5,Caught at sea,English Channel and Celtic Seas: France (0-3nm),Bottom trawl (otter),,Common cuttlefish,,,,1,1,0.5
+4,Caught at sea,Cantabrian Sea and Atlantic Iberian waters: All areas,"Pot, trap or creel",,Common octopus,,,,1,0.5,0.75
+5,Caught at sea,UK: UK EEZ (except Cornwall),Bottom trawl (beam),,Common octopus,,,,0.75,0.5,0.5
+4,Caught at sea,Cornwall: All areas,All applicable methods,,Common octopus,,,,0.75,0.5,0.5
+4,Caught at sea,Cantabrian Sea and Atlantic Iberian waters: All areas,Bottom trawl (otter),,Common octopus,,,,0.75,0.5,0.75
+4,Caught at sea,Cantabrian Sea and Atlantic Iberian waters: All areas,Bottom trawl (beam),,Common octopus,,,,0.75,0.5,0.25
+5,Caught at sea,UK: UK EEZ (except Cornwall),Bottom trawl (otter),,Common octopus,,,,1,0.5,0.5
+?,Caught at sea,All Areas: All areas,Hand-gathered,,Common periwinkle,,,,,,
+?,Caught at sea,All Areas: All areas,Mechanical harvesting,,Common periwinkle,,,,,,
+5,Caught at sea,North Sea and Skagerrak; Celtic Sea and West of Scotland: All areas,All applicable methods,,Common skate,,,,1,1,1
+4,Caught at sea,"North Sea, East coast of England: Eastern IFCA District (0-6nm)","Pot, trap or creel",,Common whelk,,,,0.5,1,0.25
+4,Caught at sea,"North Sea, North-East coast of England: North Eastern IFCA District (0-6nm)","Pot, trap or creel",,Common whelk,,,,1,1,0.25
+4,Caught at sea,English Channel (West): Jersey (0-12nm),"Pot, trap or creel",,Common whelk,,,,0.75,1,0.25
+4,Caught at sea,"Celtic Sea, South-West coast of England: Cornwall IFCA District (0-6nm)","Pot, trap or creel",,Common whelk,,,,1,1,0.5
+4,Caught at sea,"English Channel (West), Bristol Channel: Devon and Severn IFCA District (0-6nm)","Pot, trap or creel",,Common whelk,,,,0.5,1,0.25
+4,Caught at sea,"Irish Sea, North-West coast of England: North Western IFCA District (0-6nm)","Pot, trap or creel",,Common whelk,,,,0.5,0.75,0.25
+4,Caught at sea,English Channel (East): Sussex IFCA District (0-6nm),"Pot, trap or creel",,Common whelk,,,,0.75,1,0.25
+4,Caught at sea,"North Sea, North-East coast of England: Northumberland IFCA District (0-6nm)","Pot, trap or creel",,Common whelk,,,,0.5,1,0.25
+4,Caught at sea,"North Sea, South-East coast of England: Kent and Essex IFCA District (0-6nm)","Pot, trap or creel",,Common whelk,,,,0.5,1,0.25
+5,Caught at sea,UK: UK EEZ (Except England 0-6nm and Welsh waters),"Pot, trap or creel",,Common whelk,,,,0.5,1,0.25
+5,Caught at sea,English Channel (West): Southern IFCA District (0-6nm),"Pot, trap or creel",,Common whelk,,,,0.75,0.75,0.25
+5,Caught at sea,"Irish Sea, North Channel, Atlantic Ocean: Northern Ireland","Pot, trap or creel",,Common whelk,,,,0.5,1,0.25
+5,Caught at sea,"Irish Sea, Celtic Sea: St. Georges Channel, Bristol Channel: Welsh waters","Pot, trap or creel",,Common whelk,,,,0.75,0.75,0.25
+5,Caught at sea,Europe: All areas,All applicable methods,,Conger eel,,,,1,0.75,0.5
+5,Caught at sea,Europe: Cornwall IFCA District (0-6nm),All applicable methods,,Conger eel,,,,0.75,0.75,0.5
+4,Caught at sea,Cornwall: All areas,"Pot, trap or creel",,Crawfish,,,,0.75,0.75,0.5
+5,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Crawfish,,,,0.75,0.75,0
+4,Caught at sea,Cornwall: All areas,Hand-gathered (diving),,Crawfish,,,,0.75,0.75,0
+4,Caught at sea,"West of Scotland, Southern Celtic Sea, Western English Channel and Bay of Biscay: All areas",Bottom trawl (otter),,Cuckoo ray,,,,0.75,0.75,0.5
+4,Caught at sea,Cornwall: All areas,All applicable methods,,Cuckoo ray,,,,0.75,0.5,0.5
+5,Caught at sea,North Sea and Skagerrak and Kattegat: All areas,Bottom trawl (otter),,Cuckoo ray,,,,0.75,0.5,0.5
+2,Caught at sea,"North Sea, Skagerrak and Kattegat: All areas",Bottom trawl (otter),,Dab,,,,0.5,0,0.5
+2,Caught at sea,"North Sea, Skagerrak and Kattegat: All areas",Net (demersal seine),,Dab,,,,0.5,0,0.25
+3,Caught at sea,"North Sea, Skagerrak and Kattegat: All areas",Bottom trawl (beam),,Dab,,,,0.5,0,0.75
+3,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Dab,,,,0.5,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Dab,,,,0.5,0.5,0.75
+5,Caught at sea,All Areas: All areas,All applicable methods,,Devil ray,,,,1,1,1
+2,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Dover sole,,,,0.5,0,0.5
+2,Caught at sea,"Baltic Sea (West), Skagerrak and Kattegat (Subdivisions 20-24): All areas",Net (gill or fixed),,Dover sole,,,,0.5,0,0.25
+2,Caught at sea,"Celtic Sea, Bristol Channel: All areas",Bottom trawl (otter),,Dover sole,,,,0.5,0,0.75
+2,Caught at sea,"Celtic Sea, Bristol Channel: All areas",Bottom trawl (beam),,Dover sole,,,,0.5,0.5,0.5
+2,Caught at sea,"Baltic Sea (West), Skagerrak and Kattegat (Subdivisions 20-24): All areas",Bottom trawl (otter),,Dover sole,,,,0.5,0.75,0.5
+2,Caught at sea,English Channel (West): All areas,Net (gill or fixed),,Dover sole,,,,0.5,0.75,0.25
+2,Caught at sea,English Channel (West): All areas,Bottom trawl (beam),,Dover sole,,,,0.5,0.75,0.5
+2,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Dover sole,,,,0.25,0,0.5
+2,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Dover sole,,,,0.5,0.75,0.75
+2,Caught at sea,Irish Sea: All areas,Bottom trawl (otter),,Dover sole,,,,?,?,?
+2,Caught at sea,English Channel (West): All areas,Bottom trawl (otter),,Dover sole,,,,0.5,0.5,0.75
+3,Caught at sea,Irish Sea: All areas,Bottom trawl (beam),,Dover sole,,,,0.25,0,0.75
+2,Caught at sea,English Channel (East): All areas,Net (gill or fixed),,Dover sole,,,,0.5,0,0.75
+4,Caught at sea,"Celtic Sea South, southwest of Ireland: All areas",Bottom trawl (beam),,Dover sole,,,,0.25,0,0.5
+2,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Dover sole,,,,0.25,0,0.75
+2,Caught at sea,English Channel (East): All areas,Bottom trawl (otter),,Dover sole,,,,0.25,0,0.75
+2,Caught at sea,English Channel: East: All areas,Net (demersal seine),,Dover sole,,,,0.25,0,0.5
+3,Caught at sea,"Celtic Sea South, southwest of Ireland: All areas",Bottom trawl (otter),,Dover sole,,,,0.25,0,0.75
+4,Caught at sea,North Sea: All areas,Net (gill or fixed),,Dover sole,,,,0.5,0,0.5
+3,Caught at sea,English Channel (East): All areas,Bottom trawl (beam),,Dover sole,,,,0.25,0,0.5
+4,Caught at sea,North Sea: All areas,Bottom trawl (otter),,Dover sole,,,,0.25,0,0.5
+2,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Dover sole,,,,0.25,0,0.75
+5,Caught at sea,North Sea: All areas,Bottom trawl (beam),,Dover sole,,,,0.25,0,0.5
+?,Caught at sea,North Sea: All areas,Electrical fishing (pulse trawl),,Dover sole,,,,0.25,0,0.5
+4,Caught at sea,North Sea: All areas,Net (demersal seine),,Dover sole,,,,0.5,0,0.5
+4,Caught at sea,Northumberland Durham: North Eastern IFCA District (0-6nm),"Pot, trap or creel",,European Lobster,,,,0.5,1,0
+2,Caught at sea,Jersey: Granville Bay Treaty Area,"Pot, trap or creel",Marine Stewardship Council (MSC),European Lobster,,,,0.75,1,0
+4,Caught at sea,Southeast South Coast: Sussex IFCA District (0-6nm),"Pot, trap or creel",,European Lobster,,,,0.75,1,0
+4,Caught at sea,Scotland: All areas,"Pot, trap or creel",,European Lobster,,,,0.75,1,0
+4,Caught at sea,East Anglia: Kent and Essex IFCA District (0-6nm),"Pot, trap or creel",,European Lobster,,,,0.75,0.5,0
+4,Caught at sea,Cornwall: All areas,Net (gill or fixed),,European Lobster,,,,0.75,0.5,0
+4,Caught at sea,Southwest: Isles of Scilly IFCA District (0-6nm),"Pot, trap or creel",,European Lobster,,,,0.5,0.75,0
+3,Caught at sea,Southwest: Devon and Severn IFCA District (0-6nm),"Pot, trap or creel",,European Lobster,,,,0.75,0.5,0
+4,Caught at sea,Southeast South Coast: Southern IFCA District (0-6nm),"Pot, trap or creel",,European Lobster,,,,0.5,0.75,0
+3,Caught at sea,Cornwall: All areas,"Pot, trap or creel",,European Lobster,,,,0.25,0.25,0
+3,Caught at sea,Irish Sea: North Western IFCA District (0-6nm),"Pot, trap or creel",,European Lobster,,,,0.75,0.75,0
+3,Caught at sea,Celtic Sea: Welsh waters,"Pot, trap or creel",,European Lobster,,,,0.5,0.75,0.5
+4,Caught at sea,Southeast South Coast: Kent and Essex IFCA District (0-6nm),"Pot, trap or creel",,European Lobster,,,,0.75,1,0
+4,Caught at sea,East Anglia: Eastern IFCA District (0-6nm),"Pot, trap or creel",,European Lobster,,,,0.75,1,0
+4,Caught at sea,Yorkshire Humber: North Eastern IFCA District (0-6nm),"Pot, trap or creel",,European Lobster,,,,0.5,1,0
+4,Caught at sea,Northumberland and Durham: Northumberland IFCA District (0-6nm),"Pot, trap or creel",,European Lobster,,,,0.5,1,0
+3,Caught at sea,Irish Sea: Welsh waters,"Pot, trap or creel",,European Lobster,,,,0.75,1,0
+3,Caught at sea,"Northwest Africa: Zone North, A and B: All areas",Net (purse seine),,European anchovy,,,,0.5,0.25,0.25
+3,Caught at sea,Cornwall Inshore: 0-6nm: All areas,Net (ring),,European anchovy,,,,0.75,0.25,0.25
+3,Caught at sea,Western and Southern Atlantic Iberian waters: All areas,Net (purse seine),,European anchovy,,,,0.5,0.25,0.25
+2,Caught at sea,Bay of Biscay: All areas,Net (purse seine),Marine Stewardship Council (MSC),European anchovy,,,,0.25,0.25,0.25
+2,Caught at sea,Bay of Biscay: All areas,Net (purse seine),,European anchovy,,,,0.25,0.25,0.25
+2,Caught at sea,Bay of Biscay: All areas,Net (pelagic trawl),,European anchovy,,,,0.25,0.25,0.5
+5,Farmed,"Global: Europe, All","Closed system, RAS",,European eel,,,,,!,
+5,Caught at sea,All Areas: Cornwall,All applicable methods,,European eel,,,,,!,
+5,Caught at sea,All Areas: All areas,All applicable methods,,European eel,-4,!,-1,1,,
+2,Caught at sea,"North Sea, Celtic Seas, Bay of Biscay (north). Northern Stock.: Cornwall",Bottom trawl (otter),,European hake,,,,0.5,0,0.5
+2,Caught at sea,"North Sea, Celtic Seas, Bay of Biscay (north). Northern Stock.: All areas",Hook & line (longline),,European hake,,,,0.25,0,0.5
+2,Caught at sea,"North Sea, Celtic Seas, Bay of Biscay (north). Northern Stock.: All areas",Bottom trawl (otter),,European hake,,,,0.25,0,0.5
+1,Caught at sea,"North Sea, Celtic Seas, Bay of Biscay (north). Northern Stock.: Certified fleets only",Net (gill or fixed),Marine Stewardship Council (MSC),European hake,,,,0,0,0.5
+2,Caught at sea,"North Sea, Celtic Seas, Bay of Biscay (north). Northern Stock.: All areas",Net (gill or fixed),,European hake,,,,0.25,0,0.5
+3,Caught at sea,Cornwall: All areas,Hook & line (jig),,European squid & Veined squid,,,,0.75,0.25,0
+3,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,European squid & Veined squid,,,,0.75,0.25,0.5
+3,Caught at sea,North Sea: All areas,Bottom trawl (beam),,Flounder,,,,0.5,0.25,0.75
+3,Caught at sea,North Sea: All areas,Bottom trawl (otter),,Flounder,,,,0.5,0.25,0.5
+3,Farmed,"Global: Bangladesh,","Pond, extensive",,Giant river prawn,,1,-1,-3,,
+3,Farmed,"Global: Europe, Europe Union and Turkey","Open net pen, marine",Aquaculture Stewardship Council (ASC),Gilthead bream,,,,0.75,0.5,0
+3,Farmed,"Global: Europe, Europe Union and Turkey","Open net pen, marine",GLOBALG.A.P.,Gilthead bream,,,,0.75,0.5,0.5
+3,Farmed,"Global: Europe, Europe Union and Turkey","Open net pen, marine","Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 3*, Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 4*",Gilthead bream,-2,-2,-1,1,,
+4,Farmed,"Global: Europe, Europe Union and Turkey","Open net pen, marine",,Gilthead bream,-3,1,1,3,,
+4,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Gilthead bream,-3,2,-1,5,,
+3,Caught at sea,Cornwall: All areas,Hook & line (handline),,Gilthead bream,-3,0,1,4,,
+4,Caught at sea,North East Arctic (Barents and Norwegian Sea): All areas,Hook & line (longline),,Greenland halibut,,,,0.75,0.5,0.5
+4,Caught at sea,North East Arctic (Barents and Norwegian Sea): All areas,Net (gill or fixed),,Greenland halibut,,,,0.75,0.5,0.5
+4,Caught at sea,North East Arctic (Barents and Norwegian Sea): All areas,Bottom trawl (otter),,Greenland halibut,,,,0.75,0.5,0.5
+4,Caught at sea,"Iceland, Faroes, West of Scotland, North of Azores, East of Greenland: All areas",Net (gill or fixed),,Greenland halibut,,,,0.75,0.5,0.5
+4,Caught at sea,"Iceland, Faroes, West of Scotland, North of Azores, East of Greenland: All areas",Hook & line (longline),,Greenland halibut,,,,0.75,0.5,0.5
+5,Caught at sea,"Iceland, Faroes, West of Scotland, North of Azores, East of Greenland: All areas",Bottom trawl (otter),,Greenland halibut,,,,0.75,0.5,1
+5,Caught at sea,"West Greenland: Upernavik, Uummannaq, Disco Bay: Inshore",Hook & line (longline),,Greenland halibut,,,,0.75,1,0.25
+3,Caught at sea,"North Sea, Eastern English Channel and Skagerrak and Kattegat: All areas",Bottom trawl (otter),,Grey gurnard,,,,0.5,0.5,0.5
+3,Caught at sea,Celtic Sea and West of Scotland: All areas,Bottom trawl (otter),,Grey gurnard,,,,0.5,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Net (beach seine),,Grey mullet,,,,0.75,1,0.5
+4,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Grey mullet,,,,0.5,0.75,0.5
+5,Caught at sea,"North Sea, English Channel: All areas",Net (gill or fixed),,Grey mullet,,,,0.5,0.75,0.25
+5,Caught at sea,All Areas: All areas,All applicable methods,,Grouper,,,,1,1,1
+5,Caught at sea,All Areas: All areas,All applicable methods,,Guitarfish,,,,,!,
+2,Caught at sea,Rockall: All areas,Hook & line (longline),,Haddock,,,,0.75,0.25,0.75
+2,Caught at sea,Northeast Arctic: All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Haddock,,,,0.75,0.25,0.75
+2,Caught at sea,Northeast Arctic: All areas,Hook & line (longline),,Haddock,,,,0.75,0.25,0.5
+2,Caught at sea,"North Sea, West of Scotland, Skagerrak: All areas",Bottom trawl (otter); Net (demersal seine),Marine Stewardship Council (MSC),Haddock,,,,0.75,0,0.5
+2,Caught at sea,"North Sea, West of Scotland, Skagerrak: All areas",Hook & line (longline),,Haddock,,,,0.25,0,0.5
+2,Caught at sea,"North Sea, West of Scotland, Skagerrak: All areas",Net (demersal seine),,Haddock,,,,0.5,0,0.5
+2,Caught at sea,Iceland: All areas,Net (demersal seine),Marine Stewardship Council (MSC),Haddock,,,,0.25,0,0.75
+2,Caught at sea,Iceland: All areas,Hook & line (longline),Marine Stewardship Council (MSC),Haddock,,,,0.25,0,0.5
+2,Caught at sea,Rockall: All areas,Bottom trawl (otter),,Haddock,,,,0.5,0,0.25
+2,Caught at sea,Iceland: All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Haddock,,,,0.5,0,0.5
+2,Caught at sea,Rockall: All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Haddock,,,,0.25,0.25,0.5
+2,Caught at sea,Irish Sea: All areas,Net (pelagic trawl),,Haddock,,,,0.5,0,0.5
+2,Caught at sea,Northeast Arctic: All areas,Bottom trawl (otter),,Haddock,,,,0.25,0.25,0.5
+2,Caught at sea,"North Sea, West of Scotland, Skagerrak: All areas",Bottom trawl (otter),,Haddock,,,,0.25,0.25,0.25
+2,Caught at sea,Northeast Arctic: All areas,Hook & line (longline),Marine Stewardship Council (MSC),Haddock,,,,0.25,0,0.5
+3,Caught at sea,Faroes grounds: All areas,Hook & line (longline),,Haddock,,,,0.25,0,0.5
+3,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Haddock,,,,0.25,0,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Haddock,,,,0.25,0,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Haddock,,,,0.25,0,0.5
+2,Caught at sea,Irish Sea: All areas,Bottom trawl (otter),,Haddock,,,,0.5,0,0.5
+3,Caught at sea,"North Sea Autumn Spawners: North Sea, English Channel (East): All areas",Net (drift),,Herring,,,,,!,
+4,Caught at sea,Baltic Sea (Central) (Subdivisions 25-29 and 32) excluding Gulf of Riga: All areas,Net (pelagic trawl; purse seine),,Herring,,,,0.5,1,1
+1,Caught at sea,Irish Sea (North): Certified fleets only,Net (pelagic trawl),Marine Stewardship Council (MSC),Herring,,,,0.5,0.25,!
+2,Caught at sea,Irish Sea (North): All areas,Net (pelagic trawl),,Herring,,,,,!,
+3,Caught at sea,"North Sea Autumn Spawners: North Sea, English Channel (East): All areas",Net (pelagic trawl),,Herring,,,,,!,
+3,Caught at sea,"North Sea Autumn Spawners: North Sea, English Channel (East): All areas",Net (purse seine),,Herring,,,,,!,
+5,Caught at sea,"Baltic Sea (West), Skagerrak and Kattegat (Subdivisions 20-24): Western Baltic Spring Spawners: All areas",Net (gill or fixed),,Herring,,,,,!,
+3,Caught at sea,"North Sea Autumn Spawners: North Sea, English Channel (East): All areas",Net (pelagic trawl; purse seine),Marine Stewardship Council (MSC),Herring,,,,,!,
+5,Caught at sea,"Irish Sea (South), Celtic Sea and southwest of Ireland: All areas",Net (pelagic trawl),,Herring,,,,0.5,0.25,0.5
+5,Caught at sea,Cornwall: All areas,Net (ring),,Herring,,,,0.5,0.25,0.25
+5,Caught at sea,Cornwall: All areas,Net (drift),,Herring,,,,0.5,0.25,0.5
+5,Caught at sea,"North Sea Autumn Spawners: North Sea, English Channel (East): All areas",Net (pelagic trawl; purse seine),,Herring,,,,0.5,0.25,0.5
+5,Caught at sea,Baltic Sea (Central) (Subdivisions 25-29 and 32) excluding Gulf of Riga: All areas,Net (gill or fixed),,Herring,,,,0.5,0,0.25
+5,Caught at sea,"Celtic Sea (West of Scotland), Irish Sea (West of Ireland): All areas",Net (pelagic trawl),,Herring,,,,0.25,0,0.25
+5,Caught at sea,"Baltic Sea (West), Skagerrak and Kattegat (Subdivisions 20-24): Western Baltic Spring Spawners: All areas",Net (pelagic trawl; purse seine),,Herring,,,,0.5,1,0.25
+4,Caught at sea,Cornwall: All areas,All applicable methods,,Horned octopus,,,,1,0.5,0.75
+5,Caught at sea,British waters: UK EEZ (except Cornwall),Bottom trawl (otter),,Horned octopus,,,,1,0.5,0.5
+5,Caught at sea,British waters: UK EEZ (except Cornwall),Bottom trawl (beam),,Horned octopus,,,,0.75,0.5,0.5
+2,Caught at sea,Atlantic Iberian waters. Southern stock.: All areas,Net (purse seine),,Horse mackerel,,,,0.5,0,0.25
+2,Caught at sea,Atlantic Iberian waters. Southern stock.: All areas,Bottom trawl (otter),,Horse mackerel,,,,0.5,0,0.5
+4,Caught at sea,"Skagerrak and Kattegat, North Sea (Central and South), English Channel (East). North Sea stock.: All areas",Net (pelagic trawl),,Horse mackerel,,,,0.5,1,0.25
+4,Caught at sea,"Norwegian Sea, North Sea (North), Celtic Seas, Cantabrian Sea, English Channel (South), Bay of Biscay. Western stock.: All areas",Net (purse seine),,Horse mackerel,,,,0.5,0.75,0.25
+5,Caught at sea,"Norwegian Sea, North Sea (North), Celtic Seas, Cantabrian Sea, English Channel (South), Bay of Biscay. Western stock.: All areas",Net (pelagic trawl),,Horse mackerel,,,,0.5,0.75,1
+?,Caught at sea,India: All areas,Hook & line (jig),,Indian squid,,,,,,
+?,Caught at sea,India: All areas,Bottom trawl (otter),,Indian squid,,,,,,
+?,Caught at sea,"Japan: East China Sea, Yellow Sea, Bo Hai Sea, Korea Bay",Hook & line (jig),,Japanese flying squid,,,,,,
+4,Caught at sea,Cornwall: All areas,Net (gill or fixed),,John Dory,,,,0.75,0.5,0.5
+4,Caught at sea,North East Atlantic: All areas,Net (gill or fixed),,John Dory,,,,0.75,0.5,0.75
+4,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,John Dory,,,,0.75,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,John Dory,,,,0.75,0.5,0.5
+4,Caught at sea,North East Atlantic: All areas,Bottom trawl (otter),,John Dory,,,,0.75,0.5,0.5
+2,Caught at sea,Alaska: Alaska,Net (purse seine),Marine Stewardship Council (MSC),Keta salmon,,,,0.25,0.25,0
+2,Caught at sea,Alaska: Alaska,Net (gill or fixed; beach seine),Marine Stewardship Council (MSC),Keta salmon,,,,0.25,0.25,0.25
+3,Farmed,"Global: Global, All","Pond, freshwater",GLOBALG.A.P.,King prawn,-4,-6,-1,0,,
+1,Farmed,"Global: UK, England","Closed system, RAS",,King prawn,1,-2,0,2,,
+2,Farmed,"Global: Global, All","Pond, freshwater","Soil Association, EU Organic",King prawn,-2,-2,-1,4,,
+3,Farmed,"Global: Ecuador, Honduras, All","Pond, intensive",,King prawn,0,-2,0,2,,
+3,Farmed,"Global: Global, All",All,Aquaculture Stewardship Council (ASC),King prawn,-1,0,-1,3,,
+3,Farmed,"Global: Global, All","Pond, freshwater",Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 4*,King prawn,0,0,1,4,,
+5,Farmed,"Global: India, Vietnam and Indonesia, All","Pond, semi-intensive",,King prawn,-2,8,1,3,,
+3,Farmed,"Global: Global, All","Pond, freshwater","Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 2*, Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 3*",King prawn,0,-4,0,2,,
+2,Caught at sea,West of Scotland: Scotland (0-3nm): Dive-caught,Hand-gathered (diving),,King scallop,,,,0.75,1,0.75
+3,Caught at sea,North Sea (North): Shetland (0-6nm),Dredge,Marine Stewardship Council (MSC),King scallop,,,,0.5,1,0.5
+4,Caught at sea,7e.I: Inshore Cornwall: Offshore (beyond 6 nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.5,1,0.5
+4,Caught at sea,Irish Sea: Northern Ireland,Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.5,1,0.75
+4,Caught at sea,West of Scotland: Scotland (3-12nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.75,1,1
+1,Farmed,"Global: Scotland, All","Culture, suspension; Culture, bottom",,King scallop,,,,0.5,0.75,0.75
+4,Caught at sea,West of Scotland: Scotland (0-3nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.75,1,1
+4,Caught at sea,North Sea (North): Orkney,Hand-gathered (diving),,King scallop,,,,0.75,1,0.75
+4,Caught at sea,7f.I: Inshore Bristol Channel: Offshore (beyond 6 nm),Dredge,,King scallop,,,,0.75,1,0.75
+4,Caught at sea,7e.I: Inshore Cornwall: Inshore (0-6 nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.75,1,1
+4,Caught at sea,North Sea (North): Shetland (6-12nm),Dredge,,King scallop,,,,0.75,1,0.75
+4,Caught at sea,North Sea (Central): North Eastern IFCA District (0-6nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.75,1,0.75
+3,Caught at sea,7e.I: Inshore Cornwall: Inshore (0-6 nm),Hand-gathered (diving),Fishery Improvement Project: Stage 3,King scallop,,,,0.5,1,0.5
+4.5,Caught at sea,Irish Sea: Offshore Isle of Man (beyond 12nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.25,1,0.5
+4.5,Caught at sea,7d.N: Offshore North English Channel (East): Offshore (beyond 6 nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,5,4,1,2,,
+4.5,Caught at sea,Irish Sea: Isle of Man (3-12nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.5,0.5,0
+4.5,Caught at sea,7d.N: Inshore North: Inshore (0-6 nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.5,0.5,0.5
+4.5,Caught at sea,North Sea (North): Scotland (0-3nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.75,0.5,0.75
+4.5,Caught at sea,Cardigan Bay: Welsh waters,Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.5,0.5,0.75
+4.5,Caught at sea,Irish Sea: Isle of Man (0-3nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.5,0.25,0
+4.5,Caught at sea,North Sea (Central): Scotland (3-12nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.75,0.25,0.75
+4.5,Caught at sea,North Sea (Central): England except NEIFCA district,Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.75,0.5,0.75
+5,Caught at sea,Dogger Bank: All areas,Dredge,,King scallop,,,,0.75,0.25,1
+4.5,Caught at sea,7e.L: Lyme Bay: All areas,Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.5,1,0
+4.5,Caught at sea,North Sea (North): Scotland (3-12nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.75,0.5,0.75
+4.5,Caught at sea,North Sea (Central): Scotland (0-3nm),Dredge,Fishery Improvement Project: Stage 3,King scallop,,,,0.5,0.5,0.75
+1,Farmed,"Global: Netherlands, All","Closed system, RAS","Aquaculture Stewardship Council (ASC), Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 2*",Kingfish,-2,8,1,5,,
+2,Farmed,"Global: Australia, All","Open net pen, marine",Aquaculture Stewardship Council (ASC),Kingfish,-2,1,0,6,,
+3,Caught at sea,"North Sea, Skagerrak and Kattegat, English Channel (East): All areas",Net (demersal seine),,Lemon sole,,,,0.5,0.25,0.25
+3,Caught at sea,"North Sea, Skagerrak and Kattegat, English Channel (East): All areas",Bottom trawl (otter),,Lemon sole,,,,0.5,0.25,0.5
+3,Caught at sea,"North Sea, Skagerrak and Kattegat, English Channel (East): All areas",Bottom trawl (beam),,Lemon sole,,,,0.5,0.25,0.75
+3,Caught at sea,"North Sea, Skagerrak and Kattegat, English Channel (East): All areas",Net (gill or fixed),,Lemon sole,,,,0.5,0.25,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Lemon sole,,,,0.75,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Lemon sole,,,,0.75,0.5,0.75
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Lesser Spotted dogfish,,,,0.75,0.5,0.75
+4,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Lesser Spotted dogfish,,,,0.75,0.5,0.5
+4,Caught at sea,"North Sea, Skagerrak and Kattegat, eastern English Channel, West of Scotland, Irish Sea and southern Celtic Seas: All areas",Bottom trawl (beam),,Lesser Spotted dogfish,,,,0.75,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Lesser Spotted dogfish,,,,0.75,0.5,0.5
+4,Caught at sea,"North Sea, Skagerrak and Kattegat, eastern English Channel, West of Scotland, Irish Sea and southern Celtic Seas: All areas",Bottom trawl (otter),,Lesser Spotted dogfish,,,,0.75,0.5,0.75
+3,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Ling,,,,0.5,0.5,0.5
+3,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Ling,,,,0.5,0.5,0.5
+3,Caught at sea,Cornwall: All areas,Hook & line (longline),,Ling,,,,0.5,0.5,0.5
+4,Caught at sea,Northeast Atlantic and Arctic Ocean: All areas,Hook & line (longline),,Ling,,,,0.75,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Ling,,,,0.5,0.5,0.75
+5,Caught at sea,All Areas: All areas,Bottom trawl (otter),,Longnosed skate,,,,0.75,1,0.75
+2,Caught at sea,Northeast Atlantic and adjacent waters: EU & Norway (MINSA),Net (purse seine),Marine Stewardship Council (MSC) - Suspended,Mackerel,,,,0.75,0,0.25
+1,Caught at sea,Northeast Atlantic and adjacent waters: South West England (Cornwall),Hook & line (handline),,Mackerel,,,,0.5,0,0.25
+2,Caught at sea,Northeast Atlantic and adjacent waters: EU & Norway (MINSA),Net (pelagic trawl),Marine Stewardship Council (MSC) - Suspended,Mackerel,,,,0.25,0,0.5
+1,Caught at sea,Cornwall: All areas,Hook & line (handline),,Mackerel,,,,0.25,0,0.5
+2,Caught at sea,Northeast Atlantic and adjacent waters: Coastal States,Net (pelagic trawl; purse seine),,Mackerel,,,,0.25,0,0
+2,Caught at sea,Cornwall: All areas,Net (ring),,Mackerel,,,,0.5,0,0.25
+2,Caught at sea,Northeast Atlantic and adjacent waters: Iceland,Net (pelagic trawl; purse seine),,Mackerel,,,,0.25,0,0
+2,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Mackerel,,,,0.5,0,0.25
+?,Caught at sea,UK: All areas,Hand-gathered,,Manila clam,,,,,,
+1,Farmed,"Global: UK, All","Culture, bottom",,Manila clam,5,5,1,3,,
+3,Farmed,"Global: Europe, Europe Union and Turkey","Open net pen, marine",GLOBALG.A.P.,Meagre,-2,-2,-1,1,,
+3,Farmed,"Global: Europe, Europe Union and Turkey","Open net pen, marine",Aquaculture Stewardship Council (ASC),Meagre,-3,1,1,3,,
+3,Farmed,"Global: Europe, Europe Union and Turkey","Open net pen, marine","Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 3*, Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 4*",Meagre,-3,2,-1,5,,
+4,Farmed,"Global: Europe, Europe Union and Turkey","Open net pen, marine",,Meagre,-2,0,1,4,,
+2,Caught at sea,"North Sea (North), West of Scotland: All areas",Bottom trawl (otter),,Megrim,,,,0.5,0,0.5
+3,Caught at sea,"Celtic Sea, west and southwest of Ireland, Bay of Biscay: All areas",Bottom trawl (otter),,Megrim,,,,0.75,0,0.5
+3,Caught at sea,"Celtic Sea, west and southwest of Ireland, Bay of Biscay: All areas",Bottom trawl (beam),,Megrim,,,,0.75,0,0.75
+3,Caught at sea,Rockall: All areas,Bottom trawl (otter),,Megrim,,,,0.75,0.25,0.5
+3,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Megrim,,,,0.75,0,0.5
+3,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Megrim,,,,0.75,0,0.75
+4,Caught at sea,"North Sea, Rockall and West of Scotland, Kattegat and Skagerrak: All areas",Net (gill or fixed),,Monkfish,,,,0.5,0.75,0.5
+4,Caught at sea,"North Sea, Rockall and West of Scotland, Kattegat and Skagerrak: All areas",Bottom trawl (otter),,Monkfish,,,,0.5,0.75,0.5
+2,Caught at sea,Cornwall: All areas,Sail and oar,,Native oyster,,,,,,
+1,Farmed,"Global: UK, All","Culture, suspension",,Native oyster,,,,,,
+5,Caught at sea,UK: All areas,Hand-gathered,,Native oyster,5,6,1,3,,
+5,Caught at sea,UK: All areas,Dredge,,Native oyster,,,,0.25,0.25,0.25
+2,Caught at sea,Northeast Arctic (Barents Sea): All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Northern prawn,,,,0.25,0,0.5
+2,Caught at sea,Disko Bay and West Greenland: All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Northern prawn,,,,0.25,0,0.5
+2,Caught at sea,Northeast Arctic (Barents Sea): All areas,Bottom trawl (otter),,Northern prawn,,,,0.25,0,0.5
+3,Caught at sea,"North Sea (Norwegian Deep), Skagerrak and Kattegat: All areas",Bottom trawl (otter),,Northern prawn,,,,0.5,0.5,0.5
+3,Caught at sea,"North Sea (Norwegian Deep), Skagerrak and Kattegat: All areas",Bottom trawl (otter),Marine Stewardship Council (MSC),Northern prawn,,,,0.5,0.5,0.5
+5,Caught at sea,All Areas: All areas,All applicable methods,,Norwegian skate,,,,1,1,1
+5,Caught at sea,Cornwall: All areas,All applicable methods,,Nursehound,,,,0.75,1,0.5
+5,Caught at sea,Celtic Sea and English Channel: All areas,Hook & line (longline),,Nursehound,,,,0.75,1,0.5
+5,Caught at sea,Celtic Sea and English Channel: All areas,Net (gill or fixed),,Nursehound,,,,0.75,1,0.25
+5,Caught at sea,Celtic Sea and English Channel: All areas,Bottom trawl (otter),,Nursehound,,,,0.75,0.75,0.5
+5,Caught at sea,Pacific Ocean: All areas,All applicable methods,,Pacific bluefin tuna,,,,,!,
+1,Caught at sea,"Bering Sea (West) and Chukotskaya, Karaginskaya & Petropavlovsko-Komandorskaya subzones: All areas",Net (demersal seine),,Pacific cod,,,,0,0.5,0.25
+2,Caught at sea,Aleutian Islands: All areas,"Pot, trap or creel",Marine Stewardship Council (MSC),Pacific cod,,,,0.25,0,0.25
+4,Caught at sea,Gulf of Alaska: All areas,Bottom trawl (otter),Marine Stewardship Council (MSC) - Suspended,Pacific cod,,,,0,0,0.25
+3,Caught at sea,Gulf of Alaska: All areas,"Pot, trap or creel",Marine Stewardship Council (MSC) - Suspended,Pacific cod,,,,0,0,0.25
+3,Caught at sea,Gulf of Alaska: All areas,Hook & line (longline),Marine Stewardship Council (MSC) - Suspended,Pacific cod,,,,0,0,0.5
+3,Caught at sea,Aleutian Islands: All areas,Net (pelagic trawl),Marine Stewardship Council (MSC),Pacific cod,,,,0.25,0,0.25
+2,Caught at sea,Aleutian Islands: All areas,Hook & line (longline),Marine Stewardship Council (MSC),Pacific cod,,,,0.25,0,0.5
+1,Caught at sea,Bering Sea: All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Pacific cod,,,,0,0.5,0.25
+1,Caught at sea,Bering Sea: All areas,Hook & line (longline),Marine Stewardship Council (MSC),Pacific cod,,,,0,0.5,0.5
+1,Caught at sea,Bering Sea: All areas,"Pot, trap or creel",Marine Stewardship Council (MSC),Pacific cod,,,,0.25,0.75,0.25
+1,Caught at sea,"Bering Sea (West) and Chukotskaya, Karaginskaya & Petropavlovsko-Komandorskaya subzones: All areas",Hook & line (longline),Marine Stewardship Council (MSC),Pacific cod,,,,0.25,0.75,0.25
+2,Caught at sea,"Bering Sea (West) and Chukotskaya, Karaginskaya & Petropavlovsko-Komandorskaya subzones: All areas",Bottom trawl (otter),,Pacific cod,,,,0.25,0.75,0.5
+1,Farmed,"Global: UK, All","Culture, suspension",,Pacific oyster,,,,,,
+1,Farmed,"Global: Cornwall, UK, Cornwall","Culture, bag",,Pacific oyster,,,,0,0.25,0.25
+2,Caught at sea,Cornwall: All areas,Hand-gathered,,Pacific oyster,5,4,1,2,,
+2,Caught at sea,"Southern Peru/Northern Chile stock (15, 1, 2): All areas",Net (purse seine),,Peruvian anchovy,,,,0.5,0.5,0.5
+3,Caught at sea,Central-Southern Chile Stock (3-4): All areas,Net (purse seine),,Peruvian anchovy,,,,0.5,0.25,0.5
+3,Caught at sea,Peruvian North-Central Stock: All areas,Net (purse seine),Fishery Improvement Project: Stage 4,Peruvian anchovy,,,,0.5,0,0.5
+3,Caught at sea,Central-Southern Chile Stock (5-10): All areas,Net (purse seine),,Peruvian anchovy,,,,0.5,0.25,0.5
+2,Caught at sea,Alaska: Alaska,Net (purse seine),Marine Stewardship Council (MSC),Pink salmon,,,,0.25,0.25,0.25
+2,Caught at sea,Alaska: Alaska,Net (gill or fixed; beach seine),Marine Stewardship Council (MSC),Pink salmon,,,,0.25,0.25,0
+2,Caught at sea,"North Sea, Skagerrak: All areas",Bottom trawl (beam),,Plaice,,,,0.25,0,0.5
+3,Caught at sea,Baltic Sea (East) (Subdivisions 24-32): All areas,Bottom trawl (otter),,Plaice,,,,?,?,?
+2,Caught at sea,English Channel (East): All areas,Bottom trawl (otter),,Plaice,,,,,!,
+2,Caught at sea,"Celtic Sea, Bristol Channel: All areas",Bottom trawl (otter),,Plaice,,,,,!,
+3,Caught at sea,English Channel (East): All areas,Bottom trawl (beam),,Plaice,,,,0.5,0.25,0.5
+3,Caught at sea,English Channel (West): All areas,Bottom trawl (beam),,Plaice,,,,0.5,0.25,0.5
+3,Caught at sea,English Channel (West): All areas,Bottom trawl (otter),,Plaice,,,,0.5,0.25,0.75
+3,Caught at sea,English Channel (West): All areas,Net (gill or fixed),,Plaice,,,,0.5,0,0.75
+3,Caught at sea,Irish Sea: All areas,Bottom trawl (otter),,Plaice,,,,0.75,0,0.75
+3,Caught at sea,Irish Sea: All areas,Bottom trawl (beam),,Plaice,,,,0.75,0,0.75
+3,Caught at sea,Baltic Sea (East) (Subdivisions 24-32): All areas,Net (gill or fixed),,Plaice,,,,0.5,0,0.75
+3,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Plaice,,,,0.5,0.25,0.5
+3,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Plaice,,,,0.5,0.25,0.5
+3,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Plaice,,,,0.5,0.25,0.75
+5,Caught at sea,"Celtic Sea South, southwest of Ireland: All areas",Bottom trawl (otter),,Plaice,,,,0.5,0,0.75
+5,Caught at sea,"Celtic Sea South, southwest of Ireland: All areas",Bottom trawl (beam),,Plaice,,,,0.5,0,0.5
+?,Caught at sea,"North Sea, Skagerrak: All areas",Electrical fishing (pulse trawl),,Plaice,,,,0.5,0,0.5
+2,Caught at sea,"North Sea, Skagerrak: All areas",Bottom trawl (otter),,Plaice,,,,0.25,0,0.75
+3,Caught at sea,"Celtic Sea, Bristol Channel: All areas",Bottom trawl (beam),,Plaice,,,,0.5,0,0.75
+3,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Pollack,,,,0.5,0.5,0
+3,Caught at sea,"Celtic Seas, West of Scotland: All areas",Net (gill or fixed),,Pollack,,,,0.75,0.5,0.5
+3,Caught at sea,Cornwall: All areas,Hook & line (handline),,Pollack,,,,0.75,0.5,0.5
+3,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Pollack,,,,0.5,0.5,0.5
+3,Caught at sea,"Celtic Seas, West of Scotland: All areas",Hook & line (handline),,Pollack,,,,0.5,0.5,0.5
+4,Caught at sea,"North Sea, Skagerrak and Kattegat: All areas",Net (gill or fixed),,Pollack,,,,0.5,0.5,0
+4,Caught at sea,"North Sea, Skagerrak and Kattegat: All areas",Bottom trawl (otter),,Pollack,,,,0.5,0.5,0.5
+3,Caught at sea,"Celtic Seas, West of Scotland: All areas",Bottom trawl (otter),,Pollack,,,,0.5,0.5,0.5
+5,Caught at sea,North East Atlantic: All areas,All applicable methods,,Porbeagle,,,,,!,
+4,Caught at sea,All Areas: All areas,Bottom trawl (otter),,Pouting,,,,0.75,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Pouting,,,,0.75,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Pouting,,,,0.75,0.5,0.75
+4,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Pouting,,,,0.75,0.5,0.5
+5,Caught at sea,Irish Sea: Isle of Man (0-12nm),Bottom trawl (otter),,Queen scallop,,,,0.5,0.25,0.25
+3,Caught at sea,Cornwall: All areas,Sail and oar,,Queen scallop,,,,,!,
+5,Caught at sea,Irish Sea: Offshore Isle of Man (beyond 12nm),Dredge,,Queen scallop,,,,,!,
+5,Caught at sea,Irish Sea: Offshore Isle of Man (beyond 12nm),Bottom trawl (otter),,Queen scallop,5,3,1,2,,
+3,Caught at sea,Irish Sea: Welsh waters,Dredge,,Queen scallop,,,,0.5,0.25,0.5
+1,Farmed,"Global: Scotland, All","Culture, suspension; Culture, bottom",,Queen scallop,,,,,!,
+3,Farmed,"Global: UK, All","Open net pen, marine",,Rainbow trout,0,-2,1,4,,
+2,Farmed,"Global: UK, All","Pond, freshwater",,Rainbow trout,0,1,1,4,,
+3,Caught at sea,Scotland: All areas,Hand-gathered,,Razor clam,,,,,0.75,!
+4,Caught at sea,Cornwall: All areas,Hand-gathered,,Razor clam,,,,,,!
+4,Caught at sea,Wales: All areas,Hand-gathered,,Razor clam,,,,,,!
+4,Caught at sea,England: North Western IFCA District (0-6nm),Hand-gathered,,Razor clam,,,,,0.75,!
+4,Caught at sea,Cornwall: All areas,Hand-gathered (diving),,Razor clam,,,,0.75,0.75,0.25
+5,Caught at sea,Scotland: Electrofishing fishery,Electrical fishing,,Razor clam,,,,0.75,0.5,0.25
+5,Caught at sea,England: North Western IFCA District (0-6nm),Dredge,,Razor clam,,,,0.75,0.5,0.25
+5,Caught at sea,England: North Western IFCA District (0-6nm),Electrical fishing,,Razor clam,,,,0.75,0.75,0.25
+5,Caught at sea,Scotland: Dredge fishery,Dredge,,Razor clam,,,,0.5,0.75,0
+3,Caught at sea,Northeast Atlantic (except Cornwall): All areas,Bottom trawl (otter),,Red gurnard,,,,0.75,0.25,0.5
+3,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Red gurnard,,,,0.5,0.5,0.5
+3,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Red gurnard,,,,0.5,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Red gurnard,,,,0.5,0.5,0.75
+5,Caught at sea,"North Sea, Eastern English Channel and Skagerrak and Kattegat (Northern Area): All areas",Bottom trawl (otter),,Red mullet,,,,0.75,1,0.25
+3,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Red mullet,,,,0.75,1,0.5
+3,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Red mullet,,,,0.75,1,0.5
+5,Caught at sea,"West of Scotland, Bay of Biscay, southern Celtic Seas, Atlantic Iberian Waters (Western Area): All areas",Bottom trawl (otter),,Red mullet,,,,0.5,0.5,0.75
+5,Caught at sea,"North Sea, Eastern English Channel and Skagerrak and Kattegat (Northern Area): All areas",Net (gill or fixed),,Red mullet,,,,0.5,0.5,0.5
+5,Caught at sea,"North Sea, Eastern English Channel and Skagerrak and Kattegat (Northern Area): All areas",Net (demersal seine),,Red mullet,,,,0.5,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Red mullet,,,,0.75,1,0.5
+2,Caught at sea,Alaska: Alaska,Net (purse seine),Marine Stewardship Council (MSC),Red salmon,,,,0.25,0.25,0
+2,Caught at sea,Alaska: Alaska,Net (gill or fixed; beach seine),Marine Stewardship Council (MSC),Red salmon,,,,0.25,0.25,0.25
+3,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Sand sole,,,,0.5,0.5,0.75
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Sand sole,,,,0.5,0.5,0.5
+3,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Sand sole,,,,0.5,0.5,0.5
+5,Caught at sea,Celtic Sea and West of Scotland: All areas,Net (gill or fixed),,Sandy ray,,,,0.75,0.75,0.5
+5,Caught at sea,Cornwall: All areas,All applicable methods,,Sandy ray,,,,0.75,0.75,0.5
+5,Caught at sea,Celtic Sea and West of Scotland: All areas,Bottom trawl (otter),,Sandy ray,,,,0.75,0.75,0.5
+2,Caught at sea,Northwest Africa: Zone C (Southern): All areas,Net (pelagic trawl; purse seine),Fishery Improvement Project: Stage 5,Sardine,,,,0.5,0,0.25
+2,Caught at sea,Northwest Africa: Zone A and B (Central): All areas,Net (pelagic trawl; purse seine),Fishery Improvement Project: Stage 5,Sardine,,,,0.5,0,0.25
+3,Caught at sea,Southern Celtic Seas and English Channel: All areas,Net (purse seine),,Sardine,,,,0.75,0.25,0.25
+3,Caught at sea,Bay of Biscay: All areas,Net (purse seine),Marine Stewardship Council (MSC) - Suspended,Sardine,,,,0.75,0.25,0.25
+3,Caught at sea,Cornwall: All areas,Net (ring),Marine Stewardship Council (MSC),Sardine,,,,0.5,0.25,0.25
+3,Caught at sea,Bay of Biscay: All areas,Net (pelagic trawl),,Sardine,,,,0.75,0.25,0.5
+4,Caught at sea,Cantabrian Sea and Atlantic Iberian waters: All areas,Net (purse seine),,Sardine,,,,0.75,0.5,0.25
+5,Caught at sea,All Areas: All areas,Net (gill or fixed),,Sawfish,,,,1,1,1
+2,Caught at sea,Functional Unit 13: Firth of Clyde and Sound of Jura: All areas,"Pot, trap or creel",Fishery Improvement Project: Stage 3,Scampi,,,,0.5,0.5,0.5
+2,Caught at sea,Functional Unit 7: Fladen Ground: All areas,Bottom trawl (otter),Fishery Improvement Project: Stage 3,Scampi,,,,0.5,0,1
+2,Caught at sea,Functional Unit 12: South Minch: All areas,"Pot, trap or creel",Fishery Improvement Project: Stage 3,Scampi,,,,0.5,0,1
+3,Caught at sea,"Functional Unit 17: Aran, Galway Bay and Slyne Head: All areas",Bottom trawl (otter),,Scampi,,,,0.75,0.25,0.5
+2,Caught at sea,Functional Unit 11: North Minch: All areas,"Pot, trap or creel",Fishery Improvement Project: Stage 3,Scampi,,,,0.5,0.25,0.5
+3,Caught at sea,Functional Unit 8: Firth of Forth: All areas,Bottom trawl (otter),Fishery Improvement Project: Stage 3,Scampi,,,,0.5,0.5,0.75
+3,Caught at sea,Functional Unit 11: North Minch: All areas,Bottom trawl (otter),Fishery Improvement Project: Stage 3,Scampi,,,,0.75,1,0.5
+3,Caught at sea,Functional Unit 14: Irish Sea East: All areas,Bottom trawl (otter),Fishery Improvement Project: Stage 3,Scampi,,,,0.5,0.75,0.75
+3,Caught at sea,Functional Units 3 and 4: Skagerrak and Kattegat: All areas,Bottom trawl (otter),,Scampi,,,,0.75,0.75,0.5
+3,Caught at sea,Functional Unit 9: Moray Firth: All areas,Bottom trawl (otter),Fishery Improvement Project: Stage 3,Scampi,,,,0.75,0.5,1
+2,Caught at sea,Functional Units 3 and 4: Skagerrak and Kattegat: All areas,"Pot, trap or creel",,Scampi,,,,0.5,0.5,0.5
+3,Caught at sea,Functional Unit 5: Botney Cut to Silver Pit: All areas,Bottom trawl (otter),Fishery Improvement Project: Stage 3,Scampi,,,,0.5,0.25,1
+4.5,Caught at sea,Functional Unit 6: Farn Deeps: All areas,Bottom trawl (otter),Fishery Improvement Project: Stage 3,Scampi,,,,0.75,0.25,0.5
+3,Caught at sea,Functional Unit 13: Firth of Clyde and Sound of Jura: All areas,Bottom trawl (otter),Fishery Improvement Project: Stage 3,Scampi,,,,0.5,0.25,0
+3,Caught at sea,Functional Unit 32: Norwegian Deep: All areas,Bottom trawl (otter),,Scampi,,,,0.5,0,0
+3,Caught at sea,Functional Unit 34: Devil's Hole: All areas,Bottom trawl (otter),Fishery Improvement Project: Stage 3,Scampi,,,,0.5,0,0.5
+4,Caught at sea,Functional Unit 16: Porcupine Bank: All areas,Bottom trawl (otter),,Scampi,,,,0.5,0,0
+3,Caught at sea,Functional Unit 12: South Minch: All areas,Bottom trawl (otter),Fishery Improvement Project: Stage 3,Scampi,,,,0.5,0,0
+3,Caught at sea,Functional Unit 15: Irish Sea West: All areas,Bottom trawl (otter),Fishery Improvement Project: Stage 3,Scampi,,,,0.5,0,1
+5,Caught at sea,Functional Unit 33: Horn's Reef: All areas,Bottom trawl (otter),,Scampi,,,,0.75,0.25,0.5
+5,Caught at sea,Functional Unit 22: Celtic Sea - the Smalls: All areas,Bottom trawl (otter),,Scampi,,,,0.75,0,0.5
+4,Caught at sea,Functional Unit 19: Ireland SW and SE coast: All areas,Bottom trawl (otter),,Scampi,,,,0.5,0,1
+3,Caught at sea,Functional Unit 10: Noup: All areas,Bottom trawl (otter),Fishery Improvement Project: Stage 3,Scampi,,,,0.5,0,1
+5,Caught at sea,"Functional Unit 20-21: Labadie, Jones and Cockburn: All areas",Bottom trawl (otter),,Scampi,,,,0.5,0.25,0.75
+3,Caught at sea,"North Sea (Central and South), Irish Sea, English Channel, Bristol Channel, Celtic Sea: All areas",Hook & line (handline),,Seabass,,,,0.75,0.75,0.5
+3,Caught at sea,Bay of Biscay (North and Central): All areas,Bottom trawl (otter),,Seabass,,,,0.75,0.75,0.5
+3,Caught at sea,Bay of Biscay (North and Central): All areas,Net (demersal seine),,Seabass,,,,0.75,0.75,1
+3,Caught at sea,Bay of Biscay (North and Central): All areas,Hook & line (handline),,Seabass,,,,0.75,0.75,1
+3,Caught at sea,Bay of Biscay (North and Central): All areas,Hook & line (longline),,Seabass,,,,0.75,0.75,0.25
+3,Caught at sea,Cornwall: All areas,Hook & line (handline),,Seabass,,,,0.75,0.75,0.25
+4,Caught at sea,"North Sea (Central and South), Irish Sea, English Channel, Bristol Channel, Celtic Sea: All areas",Bottom trawl (otter),,Seabass,,,,0.5,0.25,1
+4,Farmed,"Global: Europe, Europe Union and Turkey","Open net pen, marine",,Seabass,,,,0.75,0.5,0.25
+3,Farmed,"Global: Europe, Europe Union and Turkey","Open net pen, marine","Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 3*, Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 4*",Seabass,,,,0.75,0.5,0.5
+3,Farmed,"Global: Europe, Europe Union and Turkey","Open net pen, marine",Aquaculture Stewardship Council (ASC),Seabass,,,,0.75,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Seabass,,,,0.75,0.5,0.5
+3,Farmed,"Global: Europe, Europe Union and Turkey","Open net pen, marine",GLOBALG.A.P.,Seabass,,,,0.5,0.25,1
+4,Caught at sea,"Bay of Biscay (South), Atlantic Iberian waters: All areas",Hook & line (handline),,Seabass,,,,0.75,0.5,0.5
+5,Caught at sea,"Bay of Biscay (South), Atlantic Iberian waters: All areas",Bottom trawl (otter),,Seabass,-3,0,1,4,,
+5,Caught at sea,"Bay of Biscay (South), Atlantic Iberian waters: All areas",Hook & line (longline),,Seabass,-3,2,-1,5,,
+4,Caught at sea,"North Sea (Central and South), Irish Sea, English Channel, Bristol Channel, Celtic Sea: All areas",Net (gill or fixed),,Seabass,,,,0.75,0.5,0.5
+5,Caught at sea,"Bay of Biscay (South), Atlantic Iberian waters: All areas",Net (pelagic trawl),,Seabass,-2,-2,-1,1,,
+4,Caught at sea,"Bay of Biscay (South), Atlantic Iberian waters: All areas",Net (purse seine),,Seabass,,,,0.75,0.5,0
+5,Caught at sea,"Bay of Biscay (South), Atlantic Iberian waters: All areas",Net (gill or fixed),,Seabass,-3,1,1,3,,
+4,Caught at sea,"North Sea (Central and South), Irish Sea, English Channel, Bristol Channel, Celtic Sea: All areas",Net (demersal seine),,Seabass,,,,0.5,0.25,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Seabass,,,,0.5,0.25,0.25
+4,Caught at sea,Bay of Biscay (North and Central): All areas,Net (pelagic trawl),,Seabass,,,,0.5,0.25,0.25
+4,Caught at sea,"West of Scotland, West of Ireland, eastern part of southwest of Ireland: All areas",All applicable methods,,Seabass,,,,0.5,0.25,0.5
+4,Caught at sea,Bay of Biscay (North and Central): All areas,Net (gill or fixed),,Seabass,,,,0.75,0.5,0
+5,Caught at sea,Celtic Sea and West of Scotland: All areas,Bottom trawl (beam),,Shagreen ray,,,,0.75,0.75,0.75
+5,Caught at sea,Cornwall: All areas,All applicable methods,,Shagreen ray,,,,0.75,0.75,0.5
+5,Caught at sea,Celtic Sea and West of Scotland: All areas,Bottom trawl (otter),,Shagreen ray,,,,0.75,0.75,0.5
+3,Caught at sea,Indian Ocean: All areas,Net (purse seine on aggregating devices or free-schooling fish),,Skipjack tuna,,,,0.75,0.25,0.25
+3,Caught at sea,West Atlantic: All areas,Hook & line (pole & line),,Skipjack tuna,,,,,,!
+2,Caught at sea,Indian Ocean: Certified fleets only,Hook & line (pole & line),Marine Stewardship Council (MSC),Skipjack tuna,,,,0.75,0.25,0.75
+2,Caught at sea,Indian Ocean: All areas,Hook & line (pole & line),,Skipjack tuna,,,,0.75,0.25,0.75
+3,Caught at sea,East Atlantic: All areas,Hook & line (pole & line; troll),,Skipjack tuna,,,,0.75,0.25,0.25
+2,Caught at sea,Western and Central Pacific: All areas,Hook & line (pole & line),,Skipjack tuna,,,,,,!
+4,Caught at sea,Eastern Pacific: All areas,Net (purse seine on aggregating devices or free-schooling fish),,Skipjack tuna,,,,0.75,0.25,0.25
+3,Caught at sea,Western and Central Pacific: All areas,Net (purse seine on aggregating devices or free-schooling fish),,Skipjack tuna,,,,0.75,0,0.75
+5,Caught at sea,Indian Ocean: All areas,Net (gill or fixed),,Skipjack tuna,,,,0.5,0,0.25
+5,Caught at sea,Western and Central Pacific: All areas,Net (gill or fixed),,Skipjack tuna,,,,0.5,0,0
+3,Caught at sea,Eastern Pacific: All areas,Hook & line (pole & line; troll),,Skipjack tuna,,,,0.75,0.25,0.75
+4,Caught at sea,East Atlantic: All areas,Net (purse seine on aggregating devices or free-schooling fish),,Skipjack tuna,,,,0.5,0,0.75
+4,Caught at sea,West Atlantic: All areas,Net (purse seine on aggregating devices or free-schooling fish),,Skipjack tuna,,,,0.75,0,0.25
+2,Caught at sea,Cornwall: All areas,Sail and oar,,Slipper limpet,,,,0,0.25,0.25
+5,Caught at sea,Cornwall: All areas,All applicable methods,,Smalleyed ray,,,,0.75,0.75,0.5
+5,Caught at sea,Bristol Channel: All areas,Bottom trawl (otter),,Smalleyed ray,,,,0.5,1,0.5
+5,Caught at sea,English Channel: All areas,Bottom trawl (otter),,Smalleyed ray,,,,0.75,1,0.5
+5,Caught at sea,Bristol Channel: All areas,Net (gill or fixed),,Smalleyed ray,,,,0.75,0.75,0.5
+5,Caught at sea,English Channel: All areas,Net (gill or fixed),,Smalleyed ray,,,,0.5,1,0.5
+5,Caught at sea,North East Atlantic: All areas,Net (gill or fixed),,Smoothhound,,,,0.75,1,0.5
+5,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Smoothhound,,,,0.75,1,0.5
+5,Caught at sea,North East Atlantic: All areas,Bottom trawl (otter),,Smoothhound,,,,0.75,1,0.5
+5,Caught at sea,Southern Ocean: All areas,All applicable methods,,Southern bluefin tuna,,,,,!,
+3,Caught at sea,England: All areas except Devon & Severn and Southern IFCA districts,"Pot, trap or creel",,Spider crab,,,,0.75,0.5,0
+3,Caught at sea,Cornwall: All areas,"Pot, trap or creel",,Spider crab,,,,0.75,0.5,0
+3,Caught at sea,England: Devon & Severn and Southern IFCA districts,"Pot, trap or creel",,Spider crab,,,,0.75,0.5,0
+4,Caught at sea,UK: All areas,Net (gill or fixed),,Spider crab,,,,0.75,0.5,0.75
+4,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Spider crab,,,,0.75,0.5,0.5
+5,Caught at sea,West of Scotland and Southwest Ireland: All areas,Bottom trawl (otter),,Spotted ray,,,,0.75,0.75,0.5
+4,Caught at sea,Cornwall: All areas,All applicable methods,,Spotted ray,,,,0.75,0.5,0.5
+4,Caught at sea,"North Sea, Skagerrak, Kattegat, and Eastern English Channel: All areas",Bottom trawl (beam),,Spotted ray,,,,0.75,0.5,0.75
+4,Caught at sea,Southern Celtic Seas: All areas,Bottom trawl (otter),,Spotted ray,,,,0.75,0.5,0.5
+3,Caught at sea,Bristol Channel: All areas,Net (gill or fixed),,Spotted ray,,,,0.5,0.5,0.5
+3,Caught at sea,Bristol Channel: All areas,Bottom trawl (otter),,Spotted ray,,,,0.5,0.5,0.5
+4,Caught at sea,"North Sea, Skagerrak, Kattegat, and Eastern English Channel: All areas",Bottom trawl (otter),,Spotted ray,,,,0.75,0.5,0.5
+4,Caught at sea,"North Sea, Skagerrak and Kattegat: All areas",Net (pelagic trawl),,Sprat,,,,0.5,0.5,0.25
+3,Caught at sea,Baltic Sea (Subdivisions 22-32): All areas,Net (pelagic trawl),,Sprat,,,,0.5,0.25,0.5
+4,Caught at sea,"West of Scotland, Celtic Seas (South): All areas",Net (pelagic trawl),,Sprat,,,,0.75,0.75,0.25
+3,Caught at sea,English Channel (West): All areas,Net (pelagic trawl),,Sprat,,,,0.75,0.75,0.25
+5,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Spurdog,,,,,!,
+5,Caught at sea,North East Atlantic and adjacent waters: All areas,Bottom trawl (otter),,Spurdog,,,,,!,
+3,Caught at sea,State and federal waters off the Atlantic coast of the U.S.A: All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Spurdog,,,,0.25,0.25,0.75
+3,Caught at sea,State and federal waters off the Atlantic coast of the U.S.A: All areas,Net (gill or fixed),Marine Stewardship Council (MSC),Spurdog,,,,0.25,0.25,1
+3,Caught at sea,State and federal waters off the Atlantic coast of the U.S.A: All areas,Bottom trawl (otter),,Spurdog,,,,0.25,0.25,0.75
+2,Caught at sea,State and federal waters off the Atlantic coast of the U.S.A: All areas,Hook & line (longline),Marine Stewardship Council (MSC),Spurdog,,,,0.25,0.25,0.25
+2,Caught at sea,State and federal waters off the Atlantic coast of the U.S.A: All areas,Hook & line (longline),,Spurdog,,,,0.25,0.25,0.25
+3,Caught at sea,State and federal waters off the Atlantic coast of the U.S.A: All areas,Net (gill or fixed),,Spurdog,,,,0.25,0.25,1
+5,Caught at sea,"Norwegian Sea, Skagerrak, Kattegat and North Sea: All areas",Bottom trawl (beam),,Starry ray,,,,,!,
+5,Caught at sea,"Norwegian Sea, Skagerrak, Kattegat and North Sea: All areas",Bottom trawl (otter),,Starry ray,,,,,!,
+5,Caught at sea,North East Atlantic: All areas,All applicable methods,,Sturgeon,0,7,-1,-1,,
+2,Farmed,"Global: Europe and USA, All","Closed system, RAS",,Sturgeon,,,,1,1,1
+3,Caught at sea,Western & Central North Pacific: All areas,Hook & line (longline),,Swordfish,,,,0.75,0.75,!
+3,Caught at sea,Indian Ocean: All areas,Hook & line (longline),,Swordfish,,,,0.75,0.75,1
+3,Caught at sea,North Atlantic: All areas,Hook & line (longline),,Swordfish,,,,0.5,0,!
+4,Caught at sea,North East Pacific: All areas,Hook & line (longline),,Swordfish,,,,0.5,0.5,0.75
+2,Caught at sea,South West Pacific: Certified fleets only,Hook & line (longline),Marine Stewardship Council (MSC),Swordfish,,,,0.75,0.75,0
+2,Caught at sea,North Atlantic: Certified fleets only,Hook & line (longline),Marine Stewardship Council (MSC),Swordfish,,,,0.75,0.25,0.75
+4,Caught at sea,South Atlantic: All areas,Hook & line (longline),,Swordfish,,,,0.5,0,0.75
+4,Caught at sea,South East Pacific: All areas,Harpoon,,Swordfish,,,,0.5,0,0.75
+5,Caught at sea,South East Pacific: All areas,Net (gill or fixed),,Swordfish,,,,0.25,0,0.5
+5,Caught at sea,South East Pacific: All areas,Hook & line (longline),,Swordfish,,,,0.25,0,0.5
+3,Caught at sea,South West Pacific: All areas,Hook & line (longline),,Swordfish,,,,0.5,0.5,0.75
+4,Caught at sea,Mediterranean: All areas,Hook & line (longline),,Swordfish,,,,0.5,0,0.75
+5,Caught at sea,South West Pacific: All areas,Net (gill or fixed),,Swordfish,,,,0.75,0,0.75
+4,Caught at sea,Irish and Celtic Seas: All areas,Bottom trawl (otter),,Thornback ray,,,,0.75,0.75,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Thornback ray,,,,0.75,1,0.75
+3,Caught at sea,Bristol Channel: All areas,Net (gill or fixed),,Thornback ray,,,,0.75,1,0.5
+3,Caught at sea,Bristol Channel: All areas,Bottom trawl (otter),,Thornback ray,,,,,,
+4,Caught at sea,"North Sea, Skagerrak, Kattegat and Eastern English Channel: All areas",Bottom trawl (otter),,Thornback ray,,,,0.75,0.5,0.75
+4,Caught at sea,Irish and Celtic Seas: All areas,Net (gill or fixed),,Thornback ray,,,,0.75,0.5,0.5
+5,Caught at sea,Western English Channel: All areas,Bottom trawl (beam),,Thornback ray,,,,0.75,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Thornback ray,,,,0.75,0.5,0.5
+4,Caught at sea,"North Sea, Skagerrak, Kattegat and Eastern English Channel: All areas",Bottom trawl (beam),,Thornback ray,,,,0.75,0.5,0.5
+5,Caught at sea,Western English Channel: All areas,Bottom trawl (otter),,Thornback ray,,,,0.5,0.5,0.5
+5,Caught at sea,West of Scotland: All areas,Bottom trawl (otter),,Thornback ray,,,,0.5,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Thornback ray,,,,0.75,0.5,0.75
+3,Farmed,"Global: Global, All",All,Aquaculture Stewardship Council (ASC),Tiger prawns,-2,-2,-1,4,,
+4,Farmed,"Global: Bangladesh, All","Pond, extensive",,Tiger prawns,5,-4,-1,-3,,
+3,Farmed,"Global: Global, All","Pond, freshwater","Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 2*, Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 3*",Tiger prawns,0,-2,0,2,,
+5,Farmed,"Global: India, Vietnam and Indonesia, All","Pond, improved extensive",,Tiger prawns,-4,-9,-1,0,,
+2,Farmed,"Global: Global, All","Pond, freshwater",Organic,Tiger prawns,3,-3,1,3,,
+3,Farmed,"Global: Global, All","Pond, freshwater",GLOBALG.A.P.,Tiger prawns,0,-4,0,2,,
+3,Farmed,"Global: Global, All","Pond, freshwater",Global Aquaculture Alliance Best Aquaculture Practices (GAA BAP) 4*,Tiger prawns,1,-3,0,2,,
+2,Farmed,"Global: Indonesia, Borneo, Kalimantan","Pond, extensive",,Tiger prawns,5,-1,0,1,,
+2,Farmed,"Global: Global, All",All,Aquaculture Stewardship Council (ASC),Tilapia,0,0,0,4,,
+4,Farmed,"Global: China, All","Open net pen, freshwater",,Tilapia,-1,-7,-1,0,,
+5,Caught at sea,North East Atlantic: All areas,Hook & line (longline),,Tope,,,,,!,
+5,Caught at sea,Cornwall: All areas,All applicable methods,,Tope,,,,,!,
+5,Caught at sea,North East Atlantic: All areas,Net (gill or fixed),,Tope,,,,,!,
+5,Caught at sea,North East Atlantic: All areas,Bottom trawl (otter),,Tope,,,,,!,
+4,Caught at sea,North Sea: All areas,Bottom trawl (beam),,Turbot,,,,0.75,0.25,0.75
+4,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Turbot,,,,0.75,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Turbot,,,,0.75,0.5,0.75
+4,Caught at sea,Cornwall: All areas,Net (gill or fixed),,Turbot,,,,0.75,0.5,0.5
+3,Caught at sea,North Sea: All areas,Net (gill or fixed),,Turbot,,,,0.75,0.25,0.5
+3,Caught at sea,North Sea: All areas,Bottom trawl (otter),,Turbot,,,,0.75,0.25,0.5
+2,Farmed,"Global: Europe, Spain","Tanks, flow through",GLOBALG.A.P.,Turbot,-4,1,1,6,,
+3,Caught at sea,Northeast Atlantic: All areas,Hook & line (longline),,Tusk,,,,0.75,0,0.5
+4,Caught at sea,English Channel: All areas,Bottom trawl (otter),,Undulate ray,,,,0.5,0.75,0.5
+5,Caught at sea,Celtic Sea and west of Scotland: All areas,Bottom trawl (beam),,Undulate ray,,,,,!,
+5,Caught at sea,Cornwall: All areas,All applicable methods,,Undulate ray,,,,0.75,0.75,0.5
+5,Caught at sea,English Channel: All areas,Bottom trawl (beam),,Undulate ray,,,,0.5,0.75,0.75
+5,Caught at sea,Celtic Sea and west of Scotland: All areas,Bottom trawl (otter),,Undulate ray,,,,,!,
+4,Caught at sea,Scotland: Shetland,"Pot, trap or creel",,Velvet swimming crab,,,,0.5,0.75,0.25
+3,Caught at sea,Cornwall: All areas,"Pot, trap or creel",,Velvet swimming crab,,,,0.75,1,0
+4,Caught at sea,Scotland: All areas,"Pot, trap or creel",,Velvet swimming crab,,,,0.75,0.5,0
+4,Caught at sea,Northern Ireland: All areas,"Pot, trap or creel",,Velvet swimming crab,,,,0.75,0.5,0
+3,Caught at sea,"England, Wales and Isle of Man: All areas","Pot, trap or creel",,Velvet swimming crab,,,,0.75,0.75,0
+2,Caught at sea,"Celtic Seas (South), Bay of Biscay: All areas",Bottom trawl (otter),,White monkfish,,,,0.5,0,0.5
+2,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,White monkfish,,,,0.5,0,0.5
+2,Caught at sea,Cornwall: All areas,Net (gill or fixed),,White monkfish,,,,0.5,0,0.5
+3,Caught at sea,"Celtic Seas (South), Bay of Biscay: All areas",Bottom trawl (beam),,White monkfish,,,,0.5,0,0.75
+3,Caught at sea,"Celtic Seas (South), Bay of Biscay: All areas",Net (gill or fixed),,White monkfish,,,,0.5,0,1
+3,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,White monkfish,,,,0.5,0,0.75
+5,Caught at sea,North East Atlantic: All areas,All applicable methods,,White skate,,,,1,1,1
+5,Caught at sea,Irish Sea: All areas,Bottom trawl (otter),,Whiting,,,,,!,
+3,Caught at sea,"North Sea, English Channel (East): All areas",Bottom trawl (otter); Net (demersal seine),Marine Stewardship Council (MSC) - Suspended,Whiting,,,,,!,
+4,Caught at sea,"North Sea, English Channel (East): All areas",Bottom trawl (otter),,Whiting,,,,,!,
+5,Caught at sea,West of Scotland: All areas,Bottom trawl (otter),,Whiting,,,,,!,
+5,Caught at sea,"Celtic Seas (South), English Channel (West): All areas",Bottom trawl (otter),,Whiting,,,,0.75,1,0.5
+5,Caught at sea,Cornwall: All areas,Bottom trawl (beam),,Whiting,,,,,!,
+5,Caught at sea,"Celtic Seas (South), English Channel (West): All areas",Net (demersal seine),,Whiting,,,,,!,
+5,Caught at sea,Cornwall: All areas,Hook & line (handline),,Whiting,,,,0.5,0.5,0.5
+5,Caught at sea,Rockall: All areas,Bottom trawl (otter),,Whiting,,,,,!,
+5,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Whiting,,,,0.5,0.5,0.75
+4,Caught at sea,Cornwall: All areas,Bottom trawl (otter),,Witch,,,,0.75,0.5,0.5
+4,Caught at sea,"North Sea, Skagerrak and Kattegat, English Channel (East): All areas",Bottom trawl (otter),,Witch,,,,0.75,0.5,0.5
+3,Caught at sea,Iceland: All areas,Net (demersal seine),Marine Stewardship Council (MSC),Wolffish,,,,0.5,0.5,0.25
+3,Caught at sea,Iceland: All areas,Hook & line (longline),Marine Stewardship Council (MSC),Wolffish,,,,0.5,0.5,0.5
+3,Caught at sea,Iceland: All areas,Bottom trawl (otter),Marine Stewardship Council (MSC),Wolffish,,,,0.5,0.5,0.5
+4,Caught at sea,Cornwall: All areas,Hook & line,,Wreckfish,,,,1,0.75,0
+5,Caught at sea,All Areas: All areas,Bottom trawl (otter),,Yellow gurnard,,,,0.75,0.75,0.5
+5,Caught at sea,All Areas: All areas,Net (gill or fixed),,Yellow gurnard,,,,0.75,0.75,0.5
+4,Caught at sea,Indian Ocean: All areas,Hook & line (troll),,Yellowfin tuna,,,,0.75,0.75,0.75
+2,Caught at sea,Atlantic: All areas,Hook & line (pole & line; troll; handline),,Yellowfin tuna,,,,0.75,0.75,0.75
+2,Caught at sea,Western and Central Pacific: Certified fleets only,Hook & line (longline),Marine Stewardship Council (MSC),Yellowfin tuna,,,,0.5,0,!
+3,Caught at sea,Western and Central Pacific: All areas,Net (purse seine on aggregating devices or free-schooling fish),,Yellowfin tuna,,,,0.75,0.75,0.75
+3,Caught at sea,Atlantic: All areas,Net (purse seine on aggregating devices or free-schooling fish),,Yellowfin tuna,,,,0.75,0.75,0.75
+3,Caught at sea,Atlantic: All areas,Hook & line (longline),,Yellowfin tuna,,,,0.75,0.75,0
+3,Caught at sea,Eastern Pacific: All areas,Net (purse seine on aggregating devices or free-schooling fish),,Yellowfin tuna,,,,0.75,0,1
+3,Caught at sea,Eastern Pacific: All areas,Net (purse seine using dolphins),,Yellowfin tuna,,,,0.75,0.75,0.25
+4,Caught at sea,Indian Ocean: All areas,Hook & line (pole & line),,Yellowfin tuna,,,,0.75,0.75,0
+4,Caught at sea,Indian Ocean: All areas,Hook & line (handline),,Yellowfin tuna,,,,0.75,0,0.75
+4.5,Caught at sea,Indian Ocean: FIP participants only,Net (purse seine on aggregating devices or free-schooling fish),Fishery Improvement Project: Stage 4,Yellowfin tuna,,,,0.75,0,0.75
+4.5,Caught at sea,Indian Ocean: FIP participants only,Hook & line (longline),Fishery Improvement Project: Stage 4,Yellowfin tuna,,,,0.75,0,0.75
+5,Caught at sea,Western and Central Pacific: All areas,Net (gill or fixed),,Yellowfin tuna,,,,0.5,0,0.75
+5,Caught at sea,Indian Ocean: All areas,Hook & line (longline),,Yellowfin tuna,,,,0.5,0,0.75
+5,Caught at sea,Indian Ocean: All areas,Net (purse seine on aggregating devices or free-schooling fish),,Yellowfin tuna,,,,0.5,0,0.5
+5,Caught at sea,Indian Ocean: All areas,Net (gill or fixed),,Yellowfin tuna,,,,0.75,0,0.25
+2,Caught at sea,Western and Central Pacific: All areas,Hook & line (pole & line; handline),,Yellowfin tuna,,,,0.5,0,0.25
+4,Caught at sea,Eastern Pacific: All areas,Hook & line (longline),,Yellowfin tuna,,,,0.75,0,0.75
+3,Caught at sea,Western and Central Pacific: All areas,Hook & line (longline),,Yellowfin tuna,,,,0.75,0.75,!
