@@ -1,0 +1,251 @@
+Code,Name,Native,Phone,Continent,Capital,Currency,Languages,Flag
+AD,Andorra,Andorra,376,Europe,Andorra la Vella,EUR,ca,Others
+AE,United Arab Emirates,دولة الإمارات العربية المتحدة,971,Asia,Abu Dhabi,AED,ar,Others
+AF,Afghanistan,افغانستان,93,Asia,Kabul,AFN,"ps,uz,tk",Outliers
+AG,Antigua and Barbuda,Antigua and Barbuda,1268,North America,Saint John's,XCD,en,Others
+AI,Anguilla,Anguilla,1264,North America,The Valley,XCD,en,Others
+AL,Albania,Shqipëria,355,Europe,Tirana,ALL,sq,Others
+AM,Armenia,Հայաստան,374,Asia,Yerevan,AMD,"hy,ru",Others
+AO,Angola,Angola,244,Africa,Luanda,AOA,pt,Others
+AQ,Antarctica,Antarctica,672,Antarctica,,,,Others
+AR,Argentina,Argentina,54,South America,Buenos Aires,ARS,"es,gn",Others
+AS,American Samoa,American Samoa,1684,Oceania,Pago Pago,USD,"en,sm",Others
+AT,Austria,Österreich,43,Europe,Vienna,EUR,de,Others
+AU,Australia,Australia,61,Oceania,Canberra,AUD,en,Others
+AW,Aruba,Aruba,297,North America,Oranjestad,AWG,"nl,pa",Others
+AX,Åland,Åland,358,Europe,Mariehamn,EUR,sv,Others
+AZ,Azerbaijan,Azərbaycan,994,Asia,Baku,AZN,az,Others
+BA,Bosnia and Herzegovina,Bosna i Hercegovina,387,Europe,Sarajevo,BAM,"bs,hr,sr",Others
+BB,Barbados,Barbados,1246,North America,Bridgetown,BBD,en,Others
+BD,Bangladesh,Bangladesh,880,Asia,Dhaka,BDT,bn,Others
+BE,Belgium,België,32,Europe,Brussels,EUR,"nl,fr,de",Others
+BF,Burkina Faso,Burkina Faso,226,Africa,Ouagadougou,XOF,"fr,ff",Others
+BG,Bulgaria,България,359,Europe,Sofia,BGN,bg,Others
+BH,Bahrain,‏البحرين,973,Asia,Manama,BHD,ar,Others
+BI,Burundi,Burundi,257,Africa,Bujumbura,BIF,"fr,rn",Others
+BJ,Benin,Bénin,229,Africa,Porto-Novo,XOF,fr,Others
+BL,Saint Barthélemy,Saint-Barthélemy,590,North America,Gustavia,EUR,fr,Others
+BM,Bermuda,Bermuda,1441,North America,Hamilton,BMD,en,Others
+BN,Brunei,Negara Brunei Darussalam,673,Asia,Bandar Seri Begawan,BND,ms,Others
+BO,Bolivia,Bolivia,591,South America,Sucre,"BOB,BOV","es,ay,qu",Others
+BQ,Bonaire,Bonaire,5997,North America,Kralendijk,USD,nl,Others
+BR,Brazil,Brasil,55,South America,Brasília,BRL,pt,Others
+BS,Bahamas,Bahamas,1242,North America,Nassau,BSD,en,Others
+BT,Bhutan,ʼbrug-yul,975,Asia,Thimphu,"BTN,INR",dz,Others
+BV,Bouvet Island,Bouvetøya,47,Antarctica,,NOK,"no,nb,nn",Others
+BW,Botswana,Botswana,267,Africa,Gaborone,BWP,"en,tn",Others
+BY,Belarus,Белару́сь,375,Europe,Minsk,BYN,"be,ru",Others
+BZ,Belize,Belize,501,North America,Belmopan,BZD,"en,es",Others
+CA,Canada,Canada,1,North America,Ottawa,CAD,"en,fr",Others
+CC,Cocos [Keeling] Islands,Cocos (Keeling) Islands,61,Asia,West Island,AUD,en,Others
+CD,Democratic Republic of the Congo,République démocratique du Congo,243,Africa,Kinshasa,CDF,"fr,ln,kg,sw,lu",Others
+CF,Central African Republic,Ködörösêse tî Bêafrîka,236,Africa,Bangui,XAF,"fr,sg",Others
+CG,Republic of the Congo,République du Congo,242,Africa,Brazzaville,XAF,"fr,ln",Others
+CH,Switzerland,Schweiz,41,Europe,Bern,"CHE,CHF,CHW","de,fr,it",Others
+CI,Ivory Coast,Côte d'Ivoire,225,Africa,Yamoussoukro,XOF,fr,Others
+CK,Cook Islands,Cook Islands,682,Oceania,Avarua,NZD,en,Others
+CL,Chile,Chile,56,South America,Santiago,"CLF,CLP",es,Others
+CM,Cameroon,Cameroon,237,Africa,Yaoundé,XAF,"en,fr",Others
+CN,China,中国,86,Asia,Beijing,CNY,zh,Others
+CO,Colombia,Colombia,57,South America,Bogotá,COP,es,Others
+CR,Costa Rica,Costa Rica,506,North America,San José,CRC,es,Others
+CU,Cuba,Cuba,53,North America,Havana,"CUC,CUP",es,Others
+CV,Cape Verde,Cabo Verde,238,Africa,Praia,CVE,pt,Others
+CW,Curacao,Curaçao,5999,North America,Willemstad,ANG,"nl,pa,en",Others
+CX,Christmas Island,Christmas Island,61,Asia,Flying Fish Cove,AUD,en,Others
+CY,Cyprus,Κύπρος,357,Europe,Nicosia,EUR,"el,tr,hy",Others
+CZ,Czech Republic,Česká republika,420,Europe,Prague,CZK,"cs,sk",Others
+DE,Germany,Deutschland,49,Europe,Berlin,EUR,de,Others
+DJ,Djibouti,Djibouti,253,Africa,Djibouti,DJF,"fr,ar",Others
+DK,Denmark,Danmark,45,Europe,Copenhagen,DKK,da,Others
+DM,Dominica,Dominica,1767,North America,Roseau,XCD,en,Others
+DO,Dominican Republic,República Dominicana,"180,918,291,849",North America,Santo Domingo,DOP,es,Others
+DZ,Algeria,الجزائر,213,Africa,Algiers,DZD,ar,Inliers
+EC,Ecuador,Ecuador,593,South America,Quito,USD,es,Others
+EE,Estonia,Eesti,372,Europe,Tallinn,EUR,et,Others
+EG,Egypt,مصر‎,20,Africa,Cairo,EGP,ar,Outliers
+EH,Western Sahara,الصحراء الغربية,212,Africa,El Aaiún,"MAD,DZD,MRU",es,Others
+ER,Eritrea,ኤርትራ,291,Africa,Asmara,ERN,"ti,ar,en",Others
+ES,Spain,España,34,Europe,Madrid,EUR,"es,eu,ca,gl,oc",Others
+ET,Ethiopia,ኢትዮጵያ,251,Africa,Addis Ababa,ETB,am,Others
+FI,Finland,Suomi,358,Europe,Helsinki,EUR,"fi,sv",Others
+FJ,Fiji,Fiji,679,Oceania,Suva,FJD,"en,fj,hi,ur",Others
+FK,Falkland Islands,Falkland Islands,500,South America,Stanley,FKP,en,Others
+FM,Micronesia,Micronesia,691,Oceania,Palikir,USD,en,Others
+FO,Faroe Islands,Føroyar,298,Europe,Tórshavn,DKK,fo,Others
+FR,France,France,33,Europe,Paris,EUR,fr,Others
+GA,Gabon,Gabon,241,Africa,Libreville,XAF,fr,Others
+GB,United Kingdom,United Kingdom,44,Europe,London,GBP,en,Others
+GD,Grenada,Grenada,1473,North America,St. George's,XCD,en,Others
+GE,Georgia,საქართველო,995,Asia,Tbilisi,GEL,ka,Others
+GF,French Guiana,Guyane française,594,South America,Cayenne,EUR,fr,Others
+GG,Guernsey,Guernsey,44,Europe,St. Peter Port,GBP,"en,fr",Others
+GH,Ghana,Ghana,233,Africa,Accra,GHS,en,Others
+GI,Gibraltar,Gibraltar,350,Europe,Gibraltar,GIP,en,Others
+GL,Greenland,Kalaallit Nunaat,299,North America,Nuuk,DKK,kl,Others
+GM,Gambia,Gambia,220,Africa,Banjul,GMD,en,Others
+GN,Guinea,Guinée,224,Africa,Conakry,GNF,"fr,ff",Others
+GP,Guadeloupe,Guadeloupe,590,North America,Basse-Terre,EUR,fr,Others
+GQ,Equatorial Guinea,Guinea Ecuatorial,240,Africa,Malabo,XAF,"es,fr",Others
+GR,Greece,Ελλάδα,30,Europe,Athens,EUR,el,Inliers
+GS,South Georgia and the South Sandwich Islands,South Georgia,500,Antarctica,King Edward Point,GBP,en,Others
+GT,Guatemala,Guatemala,502,North America,Guatemala City,GTQ,es,Others
+GU,Guam,Guam,1671,Oceania,Hagåtña,USD,"en,ch,es",Others
+GW,Guinea-Bissau,Guiné-Bissau,245,Africa,Bissau,XOF,pt,Others
+GY,Guyana,Guyana,592,South America,Georgetown,GYD,en,Others
+HK,Hong Kong,香港,852,Asia,City of Victoria,HKD,"zh,en",Others
+HM,Heard Island and McDonald Islands,Heard Island and McDonald Islands,61,Antarctica,,AUD,en,Others
+HN,Honduras,Honduras,504,North America,Tegucigalpa,HNL,es,Others
+HR,Croatia,Hrvatska,385,Europe,Zagreb,HRK,hr,Others
+HT,Haiti,Haïti,509,North America,Port-au-Prince,"HTG,USD","fr,ht",Outliers
+HU,Hungary,Magyarország,36,Europe,Budapest,HUF,hu,Others
+ID,Indonesia,Indonesia,62,Asia,Jakarta,IDR,id,Others
+IE,Ireland,Éire,353,Europe,Dublin,EUR,"ga,en",Others
+IL,Israel,יִשְׂרָאֵל,972,Asia,Jerusalem,ILS,"he,ar",Outliers
+IM,Isle of Man,Isle of Man,44,Europe,Douglas,GBP,"en,gv",Others
+IN,India,भारत,91,Asia,New Delhi,INR,"hi,en",Others
+IO,British Indian Ocean Territory,British Indian Ocean Territory,246,Asia,Diego Garcia,USD,en,Others
+IQ,Iraq,العراق,964,Asia,Baghdad,IQD,"ar,ku",Others
+IR,Iran,ایران,98,Asia,Tehran,IRR,fa,Others
+IS,Iceland,Ísland,354,Europe,Reykjavik,ISK,is,Others
+IT,Italy,Italia,39,Europe,Rome,EUR,it,Others
+JE,Jersey,Jersey,44,Europe,Saint Helier,GBP,"en,fr",Others
+JM,Jamaica,Jamaica,1876,North America,Kingston,JMD,en,Others
+JO,Jordan,الأردن,962,Asia,Amman,JOD,ar,Others
+JP,Japan,日本,81,Asia,Tokyo,JPY,ja,Others
+KE,Kenya,Kenya,254,Africa,Nairobi,KES,"en,sw",Others
+KG,Kyrgyzstan,Кыргызстан,996,Asia,Bishkek,KGS,"ky,ru",Others
+KH,Cambodia,Kâmpŭchéa,855,Asia,Phnom Penh,KHR,km,Others
+KI,Kiribati,Kiribati,686,Oceania,South Tarawa,AUD,en,Others
+KM,Comoros,Komori,269,Africa,Moroni,KMF,"ar,fr",Others
+KN,Saint Kitts and Nevis,Saint Kitts and Nevis,1869,North America,Basseterre,XCD,en,Others
+KP,North Korea,북한,850,Asia,Pyongyang,KPW,ko,Others
+KR,South Korea,대한민국,82,Asia,Seoul,KRW,ko,Others
+KW,Kuwait,الكويت,965,Asia,Kuwait City,KWD,ar,Others
+KY,Cayman Islands,Cayman Islands,1345,North America,George Town,KYD,en,Others
+KZ,Kazakhstan,Қазақстан,"76,77",Asia,Astana,KZT,"kk,ru",Others
+LA,Laos,ສປປລາວ,856,Asia,Vientiane,LAK,lo,Others
+LB,Lebanon,لبنان,961,Asia,Beirut,LBP,"ar,fr",Others
+LC,Saint Lucia,Saint Lucia,1758,North America,Castries,XCD,en,Others
+LI,Liechtenstein,Liechtenstein,423,Europe,Vaduz,CHF,de,Others
+LK,Sri Lanka,śrī laṃkāva,94,Asia,Colombo,LKR,"si,ta",Others
+LR,Liberia,Liberia,231,Africa,Monrovia,LRD,en,Others
+LS,Lesotho,Lesotho,266,Africa,Maseru,"LSL,ZAR","en,st",Others
+LT,Lithuania,Lietuva,370,Europe,Vilnius,EUR,lt,Inliers
+LU,Luxembourg,Luxembourg,352,Europe,Luxembourg,EUR,"fr,de,lb",Others
+LV,Latvia,Latvija,371,Europe,Riga,EUR,lv,Others
+LY,Libya,‏ليبيا,218,Africa,Tripoli,LYD,ar,Others
+MA,Morocco,المغرب,212,Africa,Rabat,MAD,ar,Others
+MC,Monaco,Monaco,377,Europe,Monaco,EUR,fr,Others
+MD,Moldova,Moldova,373,Europe,Chișinău,MDL,ro,Others
+ME,Montenegro,Црна Гора,382,Europe,Podgorica,EUR,"sr,bs,sq,hr",Others
+MF,Saint Martin,Saint-Martin,590,North America,Marigot,EUR,"en,fr,nl",Others
+MG,Madagascar,Madagasikara,261,Africa,Antananarivo,MGA,"fr,mg",Others
+MH,Marshall Islands,M̧ajeļ,692,Oceania,Majuro,USD,"en,mh",Others
+MK,North Macedonia,Северна Македонија,389,Europe,Skopje,MKD,mk,Others
+ML,Mali,Mali,223,Africa,Bamako,XOF,fr,Others
+MM,Myanmar [Burma],မြန်မာ,95,Asia,Naypyidaw,MMK,my,Others
+MN,Mongolia,Монгол улс,976,Asia,Ulan Bator,MNT,mn,Others
+MO,Macao,澳門,853,Asia,,MOP,"zh,pt",Others
+MP,Northern Mariana Islands,Northern Mariana Islands,1670,Oceania,Saipan,USD,"en,ch",Others
+MQ,Martinique,Martinique,596,North America,Fort-de-France,EUR,fr,Others
+MR,Mauritania,موريتانيا,222,Africa,Nouakchott,MRU,ar,Others
+MS,Montserrat,Montserrat,1664,North America,Plymouth,XCD,en,Others
+MT,Malta,Malta,356,Europe,Valletta,EUR,"mt,en",Others
+MU,Mauritius,Maurice,230,Africa,Port Louis,MUR,en,Others
+MV,Maldives,Maldives,960,Asia,Malé,MVR,dv,Others
+MW,Malawi,Malawi,265,Africa,Lilongwe,MWK,"en,ny",Others
+MX,Mexico,México,52,North America,Mexico City,MXN,es,Others
+MY,Malaysia,Malaysia,60,Asia,Kuala Lumpur,MYR,ms,Others
+MZ,Mozambique,Moçambique,258,Africa,Maputo,MZN,pt,Others
+NA,Namibia,Namibia,264,Africa,Windhoek,"NAD,ZAR","en,af",Others
+NC,New Caledonia,Nouvelle-Calédonie,687,Oceania,Nouméa,XPF,fr,Others
+NE,Niger,Niger,227,Africa,Niamey,XOF,fr,Others
+NF,Norfolk Island,Norfolk Island,672,Oceania,Kingston,AUD,en,Others
+NG,Nigeria,Nigeria,234,Africa,Abuja,NGN,en,Others
+NI,Nicaragua,Nicaragua,505,North America,Managua,NIO,es,Others
+NL,Netherlands,Nederland,31,Europe,Amsterdam,EUR,nl,Others
+NO,Norway,Norge,47,Europe,Oslo,NOK,"no,nb,nn",Others
+NP,Nepal,नपल,977,Asia,Kathmandu,NPR,ne,Others
+NR,Nauru,Nauru,674,Oceania,Yaren,AUD,"en,na",Others
+NU,Niue,Niuē,683,Oceania,Alofi,NZD,en,Others
+NZ,New Zealand,New Zealand,64,Oceania,Wellington,NZD,"en,mi",Inliers
+OM,Oman,عمان,968,Asia,Muscat,OMR,ar,Others
+PA,Panama,Panamá,507,North America,Panama City,"PAB,USD",es,Others
+PE,Peru,Perú,51,South America,Lima,PEN,es,Others
+PF,French Polynesia,Polynésie française,689,Oceania,Papeetē,XPF,fr,Others
+PG,Papua New Guinea,Papua Niugini,675,Oceania,Port Moresby,PGK,en,Others
+PH,Philippines,Pilipinas,63,Asia,Manila,PHP,en,Others
+PK,Pakistan,Pakistan,92,Asia,Islamabad,PKR,"en,ur",Others
+PL,Poland,Polska,48,Europe,Warsaw,PLN,pl,Others
+PM,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,508,North America,Saint-Pierre,EUR,fr,Others
+PN,Pitcairn Islands,Pitcairn Islands,64,Oceania,Adamstown,NZD,en,Others
+PR,Puerto Rico,Puerto Rico,"17,871,939",North America,San Juan,USD,"es,en",Others
+PS,Palestine,فلسطين,970,Asia,Ramallah,ILS,ar,Others
+PT,Portugal,Portugal,351,Europe,Lisbon,EUR,pt,Others
+PW,Palau,Palau,680,Oceania,Ngerulmud,USD,en,Others
+PY,Paraguay,Paraguay,595,South America,Asunción,PYG,"es,gn",Others
+QA,Qatar,قطر,974,Asia,Doha,QAR,ar,Others
+RE,Réunion,La Réunion,262,Africa,Saint-Denis,EUR,fr,Others
+RO,Romania,România,40,Europe,Bucharest,RON,ro,Others
+RS,Serbia,Србија,381,Europe,Belgrade,RSD,sr,Others
+RU,Russia,Россия,7,Europe,Moscow,RUB,ru,Others
+RW,Rwanda,Rwanda,250,Africa,Kigali,RWF,"rw,en,fr",Others
+SA,Saudi Arabia,العربية السعودية,966,Asia,Riyadh,SAR,ar,Others
+SB,Solomon Islands,Solomon Islands,677,Oceania,Honiara,SBD,en,Others
+SC,Seychelles,Seychelles,248,Africa,Victoria,SCR,"fr,en",Others
+SD,Sudan,السودان,249,Africa,Khartoum,SDG,"ar,en",Others
+SE,Sweden,Sverige,46,Europe,Stockholm,SEK,sv,Others
+SG,Singapore,Singapore,65,Asia,Singapore,SGD,"en,ms,ta,zh",Others
+SH,Saint Helena,Saint Helena,290,Africa,Jamestown,SHP,en,Others
+SI,Slovenia,Slovenija,386,Europe,Ljubljana,EUR,sl,Others
+SJ,Svalbard and Jan Mayen,Svalbard og Jan Mayen,4779,Europe,Longyearbyen,NOK,no,Others
+SK,Slovakia,Slovensko,421,Europe,Bratislava,EUR,sk,Others
+SL,Sierra Leone,Sierra Leone,232,Africa,Freetown,SLL,en,Others
+SM,San Marino,San Marino,378,Europe,City of San Marino,EUR,it,Others
+SN,Senegal,Sénégal,221,Africa,Dakar,XOF,fr,Others
+SO,Somalia,Soomaaliya,252,Africa,Mogadishu,SOS,"so,ar",Others
+SR,Suriname,Suriname,597,South America,Paramaribo,SRD,nl,Others
+SS,South Sudan,South Sudan,211,Africa,Juba,SSP,en,Others
+ST,São Tomé and Príncipe,São Tomé e Príncipe,239,Africa,São Tomé,STN,pt,Others
+SV,El Salvador,El Salvador,503,North America,San Salvador,"SVC,USD",es,Others
+SX,Sint Maarten,Sint Maarten,1721,North America,Philipsburg,ANG,"nl,en",Others
+SY,Syria,سوريا,963,Asia,Damascus,SYP,ar,Outliers
+SZ,Swaziland,Swaziland,268,Africa,Lobamba,SZL,"en,ss",Others
+TC,Turks and Caicos Islands,Turks and Caicos Islands,1649,North America,Cockburn Town,USD,en,Others
+TD,Chad,Tchad,235,Africa,N'Djamena,XAF,"fr,ar",Others
+TF,French Southern Territories,Territoire des Terres australes et antarctiques fr,262,Antarctica,Port-aux-Français,EUR,fr,Others
+TG,Togo,Togo,228,Africa,Lomé,XOF,fr,Others
+TH,Thailand,ประเทศไทย,66,Asia,Bangkok,THB,th,Others
+TJ,Tajikistan,Тоҷикистон,992,Asia,Dushanbe,TJS,"tg,ru",Others
+TK,Tokelau,Tokelau,690,Oceania,Fakaofo,NZD,en,Others
+TL,East Timor,Timor-Leste,670,Oceania,Dili,USD,pt,Others
+TM,Turkmenistan,Türkmenistan,993,Asia,Ashgabat,TMT,"tk,ru",Others
+TN,Tunisia,تونس,216,Africa,Tunis,TND,ar,Outliers
+TO,Tonga,Tonga,676,Oceania,Nuku'alofa,TOP,"en,to",Others
+TR,Turkey,Türkiye,90,Asia,Ankara,TRY,tr,Others
+TT,Trinidad and Tobago,Trinidad and Tobago,1868,North America,Port of Spain,TTD,en,Others
+TV,Tuvalu,Tuvalu,688,Oceania,Funafuti,AUD,en,Others
+TW,Taiwan,臺灣,886,Asia,Taipei,TWD,zh,Others
+TZ,Tanzania,Tanzania,255,Africa,Dodoma,TZS,"sw,en",Others
+UA,Ukraine,Україна,380,Europe,Kyiv,UAH,uk,Outliers
+UG,Uganda,Uganda,256,Africa,Kampala,UGX,"en,sw",Others
+UM,U.S. Minor Outlying Islands,United States Minor Outlying Islands,1,Oceania,,USD,en,Others
+US,United States,United States,1,North America,Washington D.C.,"USD,USN,USS",en,Others
+UY,Uruguay,Uruguay,598,South America,Montevideo,"UYI,UYU",es,Others
+UZ,Uzbekistan,O‘zbekiston,998,Asia,Tashkent,UZS,"uz,ru",Others
+VA,Vatican City,Vaticano,379,Europe,Vatican City,EUR,"it,la",Others
+VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,1784,North America,Kingstown,XCD,en,Others
+VE,Venezuela,Venezuela,58,South America,Caracas,VES,es,Outliers
+VG,British Virgin Islands,British Virgin Islands,1284,North America,Road Town,USD,en,Others
+VI,U.S. Virgin Islands,United States Virgin Islands,1340,North America,Charlotte Amalie,USD,en,Others
+VN,Vietnam,Việt Nam,84,Asia,Hanoi,VND,vi,Others
+VU,Vanuatu,Vanuatu,678,Oceania,Port Vila,VUV,"bi,en,fr",Others
+WF,Wallis and Futuna,Wallis et Futuna,681,Oceania,Mata-Utu,XPF,fr,Others
+WS,Samoa,Samoa,685,Oceania,Apia,WST,"sm,en",Others
+XK,Kosovo,Republika e Kosovës,"377,381,383,386",Europe,Pristina,EUR,"sq,sr",Others
+YE,Yemen,اليَمَن,967,Asia,Sana'a,YER,ar,Outliers
+YT,Mayotte,Mayotte,262,Africa,Mamoudzou,EUR,fr,Others
+ZA,South Africa,South Africa,27,Africa,Pretoria,ZAR,"af,en,nr,st,ss,tn,ts,ve,xh,zu",Others
+ZM,Zambia,Zambia,260,Africa,Lusaka,ZMW,en,Others
+ZW,Zimbabwe,Zimbabwe,263,Africa,Harare,"USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY","en,sn,nd",Others
